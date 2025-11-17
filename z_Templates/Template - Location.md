@@ -1,22 +1,7 @@
 ---
-Type: Country
-Population: 20000000
-
+Clan: "[[Dragon Clan]]"
+Province: "[[Toshibu Province]]"
+Family: "[[Mirumoto Family]]"
 ---
-# Location
-
-## Overview
-**Gender**: Male
-**Race**: Human
-**Age**: Adult
-**Class**: Samurai, Monk, Shugenja, Ninja, None
-**Condition**: Alive, Dead, Missing, Presumed Dead, Sick, Undead
-**Role**: Friend, Adversary, Neutral, PC, Supporting Character
-
-## Map
-![](https://i.redd.it/p3y47k4y6tt51.jpg)
-
-## Profile
-**Appearance**: Short, bald
-**Motivation**: Gain ultimate glory
-**Most Trusted**: Sensei
+## Summary
+**Last Glance Castle** (D10) in the [[Toshibu Province]], was the ancestral home of the [[Mirumoto Family]], it was built on a sheer cliff overlooking a pass through [[Great Wall of the North]]. The only road spirals upward through a ravine under the watchful gaze of the castle, and any who wished to visit had to climb the steep, winding path. Invaders had to brave a gauntlet of arrows, pitch and fire from above, with no way to retaliate.

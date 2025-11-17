@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "b10d3f17193a9012",
+        "id": "b3fc34e592e9e347",
         "type": "tabs",
         "children": [
           {
-            "id": "12ee5d1c0229be6f",
+            "id": "527511cd69b9a3f5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "The Party/PCs/Togashi Hanzo.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Togashi Hanzo"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -203,41 +199,48 @@
       "bases:Create new base": false,
       "obsidian-git:Open Git source control": false,
       "templater-obsidian:Templater": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "12ee5d1c0229be6f",
+  "active": "527511cd69b9a3f5",
   "lastOpenFiles": [
-    "Tattoos/Scorpion.md",
-    "Tattoos/Dragon.md",
     "The Party/PCs/Togashi Hanzo.md",
-    "Sessions/Session 1.md",
-    "z_Templates/Template - Session.md",
     "z_Templates/Template - Individual.md",
-    "z_Templates/Template - Creature.md",
-    "z_Templates/Template - Family.md",
-    "The Party/The Party.md",
-    "Bushido.md",
+    "Locations/Cities/High House of Light.md",
     "Schools/Togashi Tattooed Order.md",
-    "z_Templates/Template - Clan.md",
+    "Locations/Provinces/Mucha Province.md",
+    "Locations/Cities/Shiro Mirumoto.md",
+    "Locations/Provinces/Toshibu Province.md",
+    "Kami/Kami Togashi.md",
+    "Kami/Kami Hida.md",
+    "Kami/Kami Doji.md",
+    "Kami/Kami Akodo.md",
+    "Locations/Super Provinces/Togashi Provinces.md",
+    "Bushido.md",
+    "Clans/Crab Clan.md",
+    "Clans/Crane Clan.md",
+    "Clans/Dragon Clan.md",
+    "Clans/Hare Clan.md",
+    "Clans/Lion Clan.md",
+    "Kami/Kami.md",
+    "Locations/Rokugan.md",
+    "Tattoos/Dragon Tattoo.md",
+    "Tattoos/Scorpion Tattoo.md",
+    "Families/Togashi Order.md",
+    "z_Templates/Template - Family.md",
+    "z_Templates/Template - Location.md",
+    "Locations/Cities",
+    "Locations/Super Provinces/Mirumoto Provinces.md",
+    "Locations/Super Provinces",
+    "Locations/Provinces",
+    "Kami",
+    "rokugan.jpg",
     "Tattoos",
-    "Races/Human.md",
     "Races",
-    "z_Templates/Template - School.md",
-    "Families/Togashi.md",
-    "Clans/Dragon.md",
     "Schools",
     "Sessions",
     "Clans/Dragon",
-    "Families",
-    "`=this.Clan`.md",
-    "The Party/PCs",
-    "NPCs/Untitled.md",
-    "Shugenja.md",
-    "z_Templates/Template - Monster.md",
-    "Clans",
-    "z_Templates/Template - Location.md",
-    "Monsters",
-    "Elements"
+    "Families"
   ]
 }

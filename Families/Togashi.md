@@ -1,4 +1,0 @@
----
-Clan: "[[Clans/Dragon]]"
-Enmies:
----

@@ -1,16 +1,16 @@
 ---
 Name: Togashi Hanzo
 Gender: Male
-Race: Human
+Race:
+  - - Human
 Class:
   - Monk
   - Samurai
 Condition: Alive
 Role: PC
 Age: Adult
-Clan: "[[Clans/Dragon|Dragon]]"
-Family: "[[Togashi]]"
-School: Togashi Tattooed Order
+School: "[[Togashi Tattooed Order]]"
+City: "[[High House of Light]]"
 Tattoos: Dragon, Scorpion
 Religion: None
 Air: 2
@@ -28,30 +28,24 @@ Awareness: "2"
 Agility: 2
 Intelligence: "2"
 ---
-
 > [!multi-column]
 >> [!blank-container | wide-3]
->> ## `=this.Name`
->> ### Summary
->> A Member of the `=this.Family` family. Is a seeker of truth and holds empiricism above blind faith to the [[Bushido]]. Is a core member of [[The Party]].
->>### Profile
->>**Appearance**: Short, bald
->>**Motivation**: Gain ultimate glory
+>> ## Summary
+>> A Member of the `=this.City.Province.SuperProvince.Family` of the `=this.City.Province.SuperProvince.Family.Clan`. Is a core member of [[The Party]].
+>>## Profile
+>>**Appearance**: Short, shaved head, heavily tattooed, stoic
+>>**Motivation**: Become enlightened
 >>**Most Trusted**: Sensei
->>### Tattoos
->> **Only work if exposed. Only 1 tattoo active at a time.**
->>1. **[[Tattoos/Dragon|Dragon]]**
->>	- On top of the head leading down the back of the neck
->>	- Allows fire-breathing
->>1. **[[Scorpion]]**
->>	- Naval to top of chest
->>	- Can climb on walls
 >>
->> ### Inventory
+>>## Tattoos
+>>[[Dragon Tattoo]]
+>>[[Scorpion Tattoo]]
+>>
+>> ## Inventory
 >
 >> [!infobox]
 >> ###### `=this.Name`
->>![](https://media.istockphoto.com/id/587932618/photo/buddhist-monk-in-meditation-pose-over-black-background.jpg?s=612x612&w=0&k=20&c=kWn3bpAIsGpyg4eMWy6d9GDCbPmsXx09jckppvcJ13U=)
+>>![](https://img.playerauctions.com/guidepost/post_638877280149921909_852183.png)
 >>###### Overview
 >> | Attribute | Status |
 >> | --------- | ------- |
@@ -65,8 +59,12 @@ Intelligence: "2"
 >> ##### Profile
 >> |  |  |
 >> | ---- | ---- |
->> | Clan | `=this.Clan` |
->> | Family | `=this.Family` |
+>> | Clan | `=this.City.Province.SuperProvince.Family.Clan` |
+>> | Family | `=this.City.Province.SuperProvince.Family` |
+>> | Provinces | `=this.City.Province.SuperProvince` | 
+>> | Province | `=this.City.Province` |
+>> | City | `=this.City` |
+>> | School| `=this.School` |
 >>
 >>###### Elements
 >>| Element | Rank |

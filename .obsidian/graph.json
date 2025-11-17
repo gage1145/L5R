@@ -1,9 +1,9 @@
 {
   "collapse-filter": true,
-  "search": "-path:z_Templates  ",
+  "search": "-path:z_Templates",
   "showTags": false,
   "showAttachments": false,
-  "hideUnresolved": false,
+  "hideUnresolved": true,
   "showOrphans": true,
   "collapse-color-groups": false,
   "colorGroups": [
@@ -11,34 +11,69 @@
       "query": "path:\"The Party\" ",
       "color": {
         "a": 1,
-        "rgb": 10013665
+        "rgb": 16774144
       }
     },
     {
       "query": "path:Clans  ",
       "color": {
         "a": 1,
-        "rgb": 14725458
+        "rgb": 7935
       }
     },
     {
       "query": "path:Families  ",
       "color": {
         "a": 1,
-        "rgb": 11657298
+        "rgb": 16731392
+      }
+    },
+    {
+      "query": "path:Elements  ",
+      "color": {
+        "a": 1,
+        "rgb": 1441536
+      }
+    },
+    {
+      "query": "path:Locations  ",
+      "color": {
+        "a": 1,
+        "rgb": 4802307
+      }
+    },
+    {
+      "query": "path: Schools  ",
+      "color": {
+        "a": 1,
+        "rgb": 41200
+      }
+    },
+    {
+      "query": "path: Kami  ",
+      "color": {
+        "a": 1,
+        "rgb": 5701632
+      }
+    },
+    {
+      "query": "path: Sessions  ",
+      "color": {
+        "a": 1,
+        "rgb": 16777215
       }
     }
   ],
-  "collapse-display": true,
+  "collapse-display": false,
   "showArrow": false,
-  "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 1,
-  "lineSizeMultiplier": 1,
+  "textFadeMultiplier": -1.2,
+  "nodeSizeMultiplier": 1.91197916666667,
+  "lineSizeMultiplier": 1.83541666666667,
   "collapse-forces": true,
-  "centerStrength": 0.518713248970312,
+  "centerStrength": 0.432291666666667,
   "repelStrength": 10,
   "linkStrength": 1,
-  "linkDistance": 250,
-  "scale": 1.081271790035483,
-  "close": false
+  "linkDistance": 86,
+  "scale": 0.6404476891069583,
+  "close": true
 }

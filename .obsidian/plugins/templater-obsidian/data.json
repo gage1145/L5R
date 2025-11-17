@@ -29,6 +29,10 @@
     {
       "folder": "Sessions",
       "template": "z_Templates/Template - Session.md"
+    },
+    {
+      "folder": "Locations",
+      "template": "z_Templates/Template - Location.md"
     }
   ],
   "enable_file_templates": false,
