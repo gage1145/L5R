@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "0d37579a2ad4a474",
+        "id": "b10d3f17193a9012",
         "type": "tabs",
         "children": [
           {
@@ -13,26 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Clans/Families/Togashi Family.md",
+                "file": "The Party/PCs/Togashi Hanzo.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Togashi Family"
-            }
-          },
-          {
-            "id": "c1340c3e40dad597",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "z_Templates/Template - Session.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Template - Session"
+              "title": "Togashi Hanzo"
             }
           }
         ]
@@ -92,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "bda7da5128f59014",
@@ -188,6 +174,16 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "3034ea64f63125bf",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
           }
         ],
         "currentTab": 5
@@ -206,34 +202,42 @@
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
       "obsidian-git:Open Git source control": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
   "active": "12ee5d1c0229be6f",
   "lastOpenFiles": [
-    "Clans/Dragon Clan.md",
-    "Clans/Families/Togashi Family.md",
-    "z_Templates/Template - Session.md",
-    "Sessions",
-    "The Party/The Party.md",
-    "z_Templates/Template - Family.md",
-    "Clans/Dragon",
-    "Clans/Families",
+    "Tattoos/Scorpion.md",
+    "Tattoos/Dragon.md",
     "The Party/PCs/Togashi Hanzo.md",
+    "Sessions/Session 1.md",
+    "z_Templates/Template - Session.md",
+    "z_Templates/Template - Individual.md",
+    "z_Templates/Template - Creature.md",
+    "z_Templates/Template - Family.md",
+    "The Party/The Party.md",
+    "Bushido.md",
+    "Schools/Togashi Tattooed Order.md",
+    "z_Templates/Template - Clan.md",
+    "Tattoos",
+    "Races/Human.md",
+    "Races",
+    "z_Templates/Template - School.md",
+    "Families/Togashi.md",
+    "Clans/Dragon.md",
+    "Schools",
+    "Sessions",
+    "Clans/Dragon",
+    "Families",
     "`=this.Clan`.md",
     "The Party/PCs",
-    "z_Templates/Template - Individual.md",
     "NPCs/Untitled.md",
     "Shugenja.md",
-    "z_Templates/Template - Creature.md",
     "z_Templates/Template - Monster.md",
-    "z_Templates/Template - Clan.md",
     "Clans",
     "z_Templates/Template - Location.md",
     "Monsters",
-    "Elements",
-    "Locations",
-    "Religion",
-    "NPCs"
+    "Elements"
   ]
 }

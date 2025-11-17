@@ -16,5 +16,6 @@
   "ITS@@its-d": true,
   "ITS@@ITS-Sizes": "none",
   "ITS@@radius-s": 0,
-  "ITS@@file-line-width": 1000
+  "ITS@@file-line-width": 1000,
+  "ITS@@ITS-Table-Styling": "tables-style-wikipedia"
 }

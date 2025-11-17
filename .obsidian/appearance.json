@@ -1,5 +1,7 @@
 {
-  "enabledCssSnippets": [],
+  "enabledCssSnippets": [
+    "multi-column"
+  ],
   "cssTheme": "ITS Theme",
   "theme": "obsidian"
 }

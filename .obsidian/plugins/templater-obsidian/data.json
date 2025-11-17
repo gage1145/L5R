@@ -15,12 +15,20 @@
   "enable_folder_templates": true,
   "folder_templates": [
     {
-      "folder": "PCs",
+      "folder": "The Party/PCs",
       "template": "z_Templates/Template - Individual.md"
     },
     {
       "folder": "NPCs",
       "template": "z_Templates/Template - Individual.md"
+    },
+    {
+      "folder": "Clans",
+      "template": "z_Templates/Template - Clan.md"
+    },
+    {
+      "folder": "Sessions",
+      "template": "z_Templates/Template - Session.md"
     }
   ],
   "enable_file_templates": false,

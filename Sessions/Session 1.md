@@ -1,5 +1,5 @@
 ## Characters
-- **Name**
+- **[[Togashi Hanzo]]**
 
 ## Overview
 Brief session overview.
