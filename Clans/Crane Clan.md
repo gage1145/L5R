@@ -1,5 +1,4 @@
 ---
-Country: "[[Rokugan]]"
 Kami: "[[Kami Doji]]"
 ---
 

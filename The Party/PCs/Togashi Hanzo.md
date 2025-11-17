@@ -1,8 +1,7 @@
 ---
 Name: Togashi Hanzo
 Gender: Male
-Race:
-  - - Human
+Race: Human
 Class:
   - Monk
   - Samurai
@@ -10,7 +9,7 @@ Condition: Alive
 Role: PC
 Age: Adult
 School: "[[Togashi Tattooed Order]]"
-City: "[[High House of Light]]"
+City: "[[Kyuden Togashi]]"
 Tattoos: Dragon, Scorpion
 Religion: None
 Air: 2

@@ -1,5 +1,4 @@
 ---
-Country: "[[Rokugan]]"
 Population: 1830000
 Military: 101000
 Imports:

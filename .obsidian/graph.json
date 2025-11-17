@@ -1,6 +1,6 @@
 {
   "collapse-filter": true,
-  "search": "-path:z_Templates",
+  "search": "-path:z_Templates -path:Sessions  ",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": true,
@@ -62,11 +62,25 @@
         "a": 1,
         "rgb": 16777215
       }
+    },
+    {
+      "query": "path: Conspiracies  ",
+      "color": {
+        "a": 1,
+        "rgb": 0
+      }
+    },
+    {
+      "query": "path: NPCs",
+      "color": {
+        "a": 1,
+        "rgb": 4391004
+      }
     }
   ],
   "collapse-display": false,
   "showArrow": false,
-  "textFadeMultiplier": -1.2,
+  "textFadeMultiplier": -1.1,
   "nodeSizeMultiplier": 1.91197916666667,
   "lineSizeMultiplier": 1.83541666666667,
   "collapse-forces": true,
@@ -74,6 +88,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 86,
-  "scale": 0.6170807009931846,
+  "scale": 0.7367971028442668,
   "close": true
 }

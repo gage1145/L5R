@@ -158,6 +158,18 @@
         "pdfs": true,
         "otherTypes": false
       }
+    },
+    {
+      "path": "Conspiracies",
+      "guid": "9920f3b4-6613-4f40-9e66-f3f0cf6eeca7",
+      "relay": "e865d41f-69e7-4772-87c5-6185d425b271",
+      "sync": {
+        "images": true,
+        "audio": true,
+        "videos": true,
+        "pdfs": true,
+        "otherTypes": false
+      }
     }
   ],
   "endpoints": {},
