@@ -1,0 +1,187 @@
+{
+  "release": {
+    "channel": "stable"
+  },
+  "sharedFolders": [
+    {
+      "path": "Clans",
+      "guid": "21246ffe-c1cb-4377-af9a-29910b6973da",
+      "relay": "e865d41f-69e7-4772-87c5-6185d425b271",
+      "sync": {
+        "images": true,
+        "audio": true,
+        "videos": true,
+        "pdfs": true,
+        "otherTypes": false
+      }
+    },
+    {
+      "path": "Families",
+      "guid": "2f1354f7-9d32-4e5d-981e-2961043aafae",
+      "relay": "e865d41f-69e7-4772-87c5-6185d425b271",
+      "sync": {
+        "images": true,
+        "audio": true,
+        "videos": true,
+        "pdfs": true,
+        "otherTypes": false
+      }
+    },
+    {
+      "path": "Elements",
+      "guid": "48c5b301-07bd-4e6a-ac46-90db818a1604",
+      "relay": "e865d41f-69e7-4772-87c5-6185d425b271",
+      "sync": {
+        "images": true,
+        "audio": true,
+        "videos": true,
+        "pdfs": true,
+        "otherTypes": false
+      }
+    },
+    {
+      "path": "Kami",
+      "guid": "1954c02d-d152-47ea-bdde-b83c4f2963ba",
+      "relay": "e865d41f-69e7-4772-87c5-6185d425b271",
+      "sync": {
+        "images": true,
+        "audio": true,
+        "videos": true,
+        "pdfs": true,
+        "otherTypes": false
+      }
+    },
+    {
+      "path": "Locations",
+      "guid": "08b149e0-f2a2-401d-b0cf-2ad6e3db76e0",
+      "relay": "e865d41f-69e7-4772-87c5-6185d425b271",
+      "sync": {
+        "images": true,
+        "audio": true,
+        "videos": true,
+        "pdfs": true,
+        "otherTypes": false
+      }
+    },
+    {
+      "path": "Monsters",
+      "guid": "b858bea0-4d79-42f2-9731-ebac8519e5e8",
+      "relay": "e865d41f-69e7-4772-87c5-6185d425b271",
+      "sync": {
+        "images": true,
+        "audio": true,
+        "videos": true,
+        "pdfs": true,
+        "otherTypes": false
+      }
+    },
+    {
+      "path": "NPCs",
+      "guid": "8d0684ce-23fb-49b3-ab81-0e00b88e43a0",
+      "relay": "e865d41f-69e7-4772-87c5-6185d425b271",
+      "sync": {
+        "images": true,
+        "audio": true,
+        "videos": true,
+        "pdfs": true,
+        "otherTypes": false
+      }
+    },
+    {
+      "path": "Religion",
+      "guid": "ae9440b6-bc48-434a-b900-eb563803f47b",
+      "relay": "e865d41f-69e7-4772-87c5-6185d425b271",
+      "sync": {
+        "images": true,
+        "audio": true,
+        "videos": true,
+        "pdfs": true,
+        "otherTypes": false
+      }
+    },
+    {
+      "path": "Schools",
+      "guid": "45f57a6e-1b6e-4d20-9f61-92f9fdbc4e8b",
+      "relay": "e865d41f-69e7-4772-87c5-6185d425b271",
+      "sync": {
+        "images": true,
+        "audio": true,
+        "videos": true,
+        "pdfs": true,
+        "otherTypes": false
+      }
+    },
+    {
+      "path": "Sessions",
+      "guid": "f6ea5bd7-1b73-411f-aa2f-7abede069cb0",
+      "relay": "e865d41f-69e7-4772-87c5-6185d425b271",
+      "sync": {
+        "images": true,
+        "audio": true,
+        "videos": true,
+        "pdfs": true,
+        "otherTypes": false
+      }
+    },
+    {
+      "path": "Tattoos",
+      "guid": "dc0c302f-c4f6-46e5-a7c8-b1f33a82e8b0",
+      "relay": "e865d41f-69e7-4772-87c5-6185d425b271",
+      "sync": {
+        "images": true,
+        "audio": true,
+        "videos": true,
+        "pdfs": true,
+        "otherTypes": false
+      }
+    },
+    {
+      "path": "The Party",
+      "guid": "995d7534-29a7-48ac-ad57-140e37c0bd3d",
+      "relay": "e865d41f-69e7-4772-87c5-6185d425b271",
+      "sync": {
+        "images": true,
+        "audio": true,
+        "videos": true,
+        "pdfs": true,
+        "otherTypes": false
+      }
+    },
+    {
+      "path": "z_Templates",
+      "guid": "fd6f8d8d-e43c-4ad4-93af-ae6c227b8d72",
+      "relay": "e865d41f-69e7-4772-87c5-6185d425b271",
+      "sync": {
+        "images": true,
+        "audio": true,
+        "videos": true,
+        "pdfs": true,
+        "otherTypes": false
+      }
+    }
+  ],
+  "endpoints": {},
+  "enableDocumentStatus": false,
+  "enableNewLinkFormat": false,
+  "enableDeltaLogging": false,
+  "enableDocumentHistory": false,
+  "enableEditorTweens": false,
+  "enableSyncModal": false,
+  "enableNetworkLogging": false,
+  "enableCanvasSync": false,
+  "enableVerifyUploads": false,
+  "enableAutomaticDiffResolution": false,
+  "enableDiscordLogin": false,
+  "enableSelfManageHosts": true,
+  "enableToasts": false,
+  "debugging": false,
+  "login": {
+    "provider": "github"
+  },
+  "enableSyncMenu": true,
+  "enableAttachmentSync": true,
+  "enableDocumentServer": true,
+  "enableMicrosoftLogin": true,
+  "enableGitHubLogin": true,
+  "enableOIDCLogin": true
+}
