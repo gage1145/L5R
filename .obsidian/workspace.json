@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Families/Togashi Family.md",
+                "file": "Clans/Families/Togashi Family.md",
                 "mode": "source",
                 "source": false
               },
@@ -35,8 +35,7 @@
               "title": "Template - Session"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -210,17 +209,17 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "c1340c3e40dad597",
+  "active": "12ee5d1c0229be6f",
   "lastOpenFiles": [
+    "Clans/Dragon Clan.md",
+    "Clans/Families/Togashi Family.md",
     "z_Templates/Template - Session.md",
     "Sessions",
     "The Party/The Party.md",
-    "Families/Togashi Family.md",
     "z_Templates/Template - Family.md",
     "Clans/Dragon",
-    "Families",
+    "Clans/Families",
     "The Party/PCs/Togashi Hanzo.md",
-    "Clans/Dragon Clan.md",
     "`=this.Clan`.md",
     "The Party/PCs",
     "z_Templates/Template - Individual.md",
