@@ -1,6 +1,6 @@
 ---
 AKA: The Well-Tended Enoki
-Province: "[[Hizoku]]"
+Province: "[[Hizoku Province]]"
 Affiliations: "[[Kyōtsū no michi]]"
 ---
 

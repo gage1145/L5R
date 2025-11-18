@@ -1,2 +1,2 @@
 ## Summary
-[[Kami]] of the Crane Clan.
+Kami of the Crane Clan.

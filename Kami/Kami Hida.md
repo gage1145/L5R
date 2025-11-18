@@ -1,2 +1,2 @@
 ## Summary
-[[Kami]] of the Crab Clan.
+Kami of the Crab Clan.

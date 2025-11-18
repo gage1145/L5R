@@ -1,5 +1,5 @@
 ---
-Province:
+Province: "[[Sabishii Province]]"
 AKA: Rising Wings Castle
 ---
 ## Summary
