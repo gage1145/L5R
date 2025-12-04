@@ -1,70 +1,37 @@
 {
   "main": {
-    "id": "904de741636b91b9",
+    "id": "cd5deb7f148c9435",
     "type": "split",
     "children": [
       {
-        "id": "a4f3b6267fb7036d",
+        "id": "294e2c6a99140100",
         "type": "tabs",
         "children": [
           {
-            "id": "2b6bddf607a77a38",
+            "id": "27f175cffa10c3f4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NPCs/Hiruma Katahide.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Hiruma Katahide"
-            }
-          },
-          {
-            "id": "3d3a99ab0670a891",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NPCs/Bayushi Nagitane.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Bayushi Nagitane"
-            }
-          },
-          {
-            "id": "926460c8fd348f83",
-            "type": "leaf",
-            "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": "Locations/Family Lands/Hiruma Provinces.md",
-                "bFile": "Locations/Family Lands/Hiruma Provinces.md",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: Hiruma Provinces"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "550dbaa7ca3d8b41",
+    "id": "735ddb0a99408540",
     "type": "split",
     "children": [
       {
-        "id": "91c8a3b8bfe856b8",
+        "id": "6892b2b818795ca4",
         "type": "tabs",
         "children": [
           {
-            "id": "c127dd3a5644b05a",
+            "id": "e4696843b46d290b",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -77,7 +44,7 @@
             }
           },
           {
-            "id": "870e27a0af0e1965",
+            "id": "631b092018322337",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -94,7 +61,7 @@
             }
           },
           {
-            "id": "58f35677fb844bfd",
+            "id": "f17525379665b40f",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -107,23 +74,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300
   },
   "right": {
-    "id": "bda7da5128f59014",
+    "id": "6c14bc54af54f357",
     "type": "split",
     "children": [
       {
-        "id": "f9e3614c3a366dd9",
+        "id": "5383acc3c3ce01ba",
         "type": "tabs",
         "children": [
           {
-            "id": "3c9e59a1c722332a",
+            "id": "64e5fd7e8aec5704",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MC.md",
+                "file": "The Party/PCs/Togashi Hanzo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,25 +100,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for MC"
+              "title": "Backlinks for Togashi Hanzo"
             }
           },
           {
-            "id": "dfa1276435d26c22",
+            "id": "5fe1b0ea0aaf9ca8",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MC.md",
+                "file": "The Party/PCs/Togashi Hanzo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from MC"
+              "title": "Outgoing links from Togashi Hanzo"
             }
           },
           {
-            "id": "95c4a133c7bee583",
+            "id": "7ba024885ce7b94e",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -166,7 +133,7 @@
             }
           },
           {
-            "id": "e17432795c76cfb6",
+            "id": "038eef139834b0f7",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -180,38 +147,28 @@
             }
           },
           {
-            "id": "f251dac68497a757",
+            "id": "e3b568150a592ff9",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "MC.md",
+                "file": "The Party/PCs/Togashi Hanzo.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of MC"
+              "title": "Outline of Togashi Hanzo"
             }
           },
           {
-            "id": "2ca7bfc7cf8a9ec2",
+            "id": "e14c53ea74189ca7",
             "type": "leaf",
             "state": {
               "type": "git-view",
               "state": {},
               "icon": "git-pull-request",
               "title": "Source Control"
-            }
-          },
-          {
-            "id": "3034ea64f63125bf",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {},
-              "icon": "spreadsheet",
-              "title": "Advanced Tables"
             }
           }
         ],
@@ -223,7 +180,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "system3-relay:Relay": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -231,50 +187,40 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "obsidian-git:Open Git source control": false,
-      "templater-obsidian:Templater": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-leaflet-plugin:Open Leaflet Map": false
+      "obsidian-leaflet-plugin:Open Leaflet Map": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3d3a99ab0670a891",
+  "active": "27f175cffa10c3f4",
   "lastOpenFiles": [
-    "NPCs/Ikoma Mitsunari.md",
+    "The Party/The Party.md",
+    "Locations/Castles/Shiro Mirumoto.md",
+    "The Party/PCs/Doji Gaoxing.md",
     "The Party/PCs/Togashi Hanzo.md",
-    "Locations/Rokugan.md",
-    "Conspiracies/Kyōtsū no michi.md",
-    "NPCs/Seppun Haruhisa.md",
-    "NPCs/Mirumoto Naomori.md",
+    "The Party/PCs/Kuni Yoshiuki.md",
+    "The Party/PCs/Doji Junji.md",
+    "NPCs/Doji Mitsuhide.md",
+    "Families/Doji Family.md",
+    "Sessions/Session 1.md",
+    "z_Templates/Template - NPC.md",
+    "Locations/Provinces/Ishigaki Province.md",
+    "NPCs/Lady Night.md",
+    "NPCs/Ikoma Mitsunari.md",
+    "NPCs/Ichiro Matsakatsu.md",
+    "NPCs/Hiruma Katahide.md",
     "NPCs/Daidoji Kotarō.md",
-    "Locations/Castles/Ranshudin.md",
-    "Locations/Provinces/Sabishii Province.md",
+    "NPCs/Bayushi Nagitane.md",
+    "NPCs/Kitsuki Kaganori.md",
+    "NPCs/Mirumoto Naomori.md",
     "Kami/Kami Togashi.md",
+    "Kami/Kami Akodo.md",
     "Kami/Kami Hida.md",
     "Kami/Kami Doji.md",
-    "Kami/Kami Akodo.md",
-    "Locations/Family Lands/Hiruma Provinces.md",
-    "Locations/Provinces/Hissori Province.md",
-    "NPCs/Hiruma Katahide.md",
-    "NPCs/Bayushi Nagitane.md",
-    "Families/Togashi Order.md",
-    "Schools/Togashi Tattooed Order.md",
-    "Locations/Provinces/Hizoku Province.md",
-    "Families/Bayushi Family.md",
-    "Clans/Scorpion Clan.md",
-    "Locations/Family Lands/Bayushi Provinces.md",
-    "Locations/Provinces/Gaien Province.md",
-    "Locations/Provinces/Mucha Province.md",
-    "Clans/Lion Clan.md",
-    "Conspiracies",
-    "Locations/Castles",
-    "Locations/Family Lands",
-    "Locations/Provinces",
-    "Kami",
-    "rokugan.jpg",
-    "Tattoos",
-    "Races",
-    "Schools",
-    "Sessions",
-    "Clans/Dragon"
+    "Kami/Kami.md",
+    "Locations/Rokugan.md",
+    "NPCs/Seppun Haruhisa.md",
+    "Animals"
   ]
 }

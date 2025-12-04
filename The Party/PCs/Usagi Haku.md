@@ -1,16 +1,14 @@
 ---
-Name: Togashi Hanzo
+Name: Usagi Haku
 Gender: Male
 Race: Human
-Class:
-  - Monk
-  - Samurai
+Class: Samurai
 Condition: Alive
 Role: PC
 Age: Adult
-School: "[[Togashi Tattooed Order]]"
-City: "[[Kyuden Togashi]]"
-Tattoos: Dragon, Scorpion
+School: "[[Usagi Bushi]]"
+City:
+Tattoos:
 Religion: None
 Air: 2
 Earth: 2
@@ -26,37 +24,21 @@ Reflexes: 2
 Awareness: "2"
 Agility: 2
 Intelligence: "2"
-Family: "[[Togashi Order]]"
 ---
-
 > [!multi-column]
 >> [!blank-container | wide-3]
 >> ## Summary
 >> A Member of the `=this.City.Province.SuperProvince.Family` of the `=this.City.Province.SuperProvince.Family.Clan`. Is a core member of [[The Party]].
 >>## Profile
->>**Appearance**: Short, shaved head, heavily tattooed, stoic
->>**Motivation**: Become enlightened
->>**Most Trusted**: Sensei
->>
->>## Tattoos
->>[[Dragon Tattoo]]
->>[[Scorpion Tattoo]]
+>>**Appearance**: 
+>>**Motivation**: 
+>>**Most Trusted**: 
 >>
 >> ## Inventory
->> 1. Personal Seal
->> 2. Rope
->> 3. Grapple hook
->> 4. Tattoo needles
->> 5. Small folding stool
->> 6. Bottle of water
->> 7. Flute
->> 8. Mask
->> 9. Tea set
->> 10. Tatomi mat
 >
 >> [!infobox]
 >> ###### `=this.Name`
->>![](https://img.playerauctions.com/guidepost/post_638877280149921909_852183.png)
+>>![](https://cdn.displate.com/artwork/857x1200/2024-05-08/30686767a5fb1e806cf84c411efd8817_abfa0c2a2ce444908cbc1f62c0513e00.jpg)
 >>###### Overview
 >> | Attribute | Status |
 >> | --------- | ------- |

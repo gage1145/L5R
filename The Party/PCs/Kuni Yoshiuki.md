@@ -1,10 +1,8 @@
 ---
-Name: Togashi Hanzo
+Name: Kuni Yoshiuki
 Gender: Male
 Race: Human
-Class:
-  - Monk
-  - Samurai
+Class: Samurai
 Condition: Alive
 Role: PC
 Age: Adult
@@ -26,33 +24,17 @@ Reflexes: 2
 Awareness: "2"
 Agility: 2
 Intelligence: "2"
-Family: "[[Togashi Order]]"
 ---
-
 > [!multi-column]
 >> [!blank-container | wide-3]
 >> ## Summary
 >> A Member of the `=this.City.Province.SuperProvince.Family` of the `=this.City.Province.SuperProvince.Family.Clan`. Is a core member of [[The Party]].
 >>## Profile
->>**Appearance**: Short, shaved head, heavily tattooed, stoic
->>**Motivation**: Become enlightened
->>**Most Trusted**: Sensei
->>
->>## Tattoos
->>[[Dragon Tattoo]]
->>[[Scorpion Tattoo]]
+>>**Appearance**: Missing a big chunk of his face!
+>>**Motivation**: 
+>>**Most Trusted**: 
 >>
 >> ## Inventory
->> 1. Personal Seal
->> 2. Rope
->> 3. Grapple hook
->> 4. Tattoo needles
->> 5. Small folding stool
->> 6. Bottle of water
->> 7. Flute
->> 8. Mask
->> 9. Tea set
->> 10. Tatomi mat
 >
 >> [!infobox]
 >> ###### `=this.Name`

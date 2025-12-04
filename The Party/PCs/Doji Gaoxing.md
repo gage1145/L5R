@@ -1,17 +1,15 @@
 ---
-Name: Togashi Hanzo
+Name: Doji Gaoxing
 Gender: Male
 Race: Human
-Class:
-  - Monk
-  - Samurai
+Class: Samurai
 Condition: Alive
 Role: PC
 Age: Adult
-School: "[[Togashi Tattooed Order]]"
-City: "[[Kyuden Togashi]]"
-Tattoos: Dragon, Scorpion
-Religion: None
+School:
+City:
+Tattoos:
+Religion:
 Air: 2
 Earth: 2
 Fire: 3
@@ -20,43 +18,28 @@ Void: 3
 Void_Points: 2
 Strength: 2
 Perception: 2
-Stamina: "2"
-Willpower: "2"
+Stamina: 2
+Willpower: 2
 Reflexes: 2
-Awareness: "2"
+Awareness: 2
 Agility: 2
-Intelligence: "2"
-Family: "[[Togashi Order]]"
+Intelligence: 2
+Family: "[[Doji Family]]"
 ---
-
 > [!multi-column]
 >> [!blank-container | wide-3]
 >> ## Summary
 >> A Member of the `=this.City.Province.SuperProvince.Family` of the `=this.City.Province.SuperProvince.Family.Clan`. Is a core member of [[The Party]].
 >>## Profile
->>**Appearance**: Short, shaved head, heavily tattooed, stoic
->>**Motivation**: Become enlightened
->>**Most Trusted**: Sensei
->>
->>## Tattoos
->>[[Dragon Tattoo]]
->>[[Scorpion Tattoo]]
+>>**Appearance**: Missing an arm, fine dresser, visible scarring on the shoulder, paint in his nails, HAS A FUCKING MONKEY!
+>>**Motivation**: 
+>>**Most Trusted**: 
 >>
 >> ## Inventory
->> 1. Personal Seal
->> 2. Rope
->> 3. Grapple hook
->> 4. Tattoo needles
->> 5. Small folding stool
->> 6. Bottle of water
->> 7. Flute
->> 8. Mask
->> 9. Tea set
->> 10. Tatomi mat
 >
 >> [!infobox]
 >> ###### `=this.Name`
->>![](https://img.playerauctions.com/guidepost/post_638877280149921909_852183.png)
+>>![](https://static.wikia.nocookie.net/l5r/images/5/57/Daidoji_Akimasa.jpg/revision/latest?cb=20110126221633)
 >>###### Overview
 >> | Attribute | Status |
 >> | --------- | ------- |
