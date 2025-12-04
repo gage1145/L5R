@@ -1,3 +1,7 @@
+---
+date: 2025-12-03
+---
+
 ## Characters
 - **[[Togashi Hanzo]]**
 - **[[Akodo Yakisoba]]**
