@@ -1,0 +1,24 @@
+{
+  "release": {
+    "channel": "stable"
+  },
+  "sharedFolders": [],
+  "endpoints": {},
+  "enableDocumentStatus": false,
+  "enableNewLinkFormat": false,
+  "enableDeltaLogging": false,
+  "enableDocumentHistory": false,
+  "enableEditorTweens": false,
+  "enableSyncModal": false,
+  "enableNetworkLogging": false,
+  "enableCanvasSync": false,
+  "enableVerifyUploads": false,
+  "enableAutomaticDiffResolution": false,
+  "enableDiscordLogin": false,
+  "enableSelfManageHosts": true,
+  "enableToasts": false,
+  "debugging": false,
+  "login": {
+    "provider": "github"
+  }
+}

@@ -1,35 +1,22 @@
 ---
-Name: Akodo Yakisoba
+Name: Doji Junji
 Gender: Male
 Race: Human
 Class: Samurai
 Condition: Alive
 Role: PC
 Age: Adult
-School: 
-City: 
-Tattoos: 
-Religion: 
-Air: 2
-Earth: 2
-Fire: 3
-Water: 2
-Void: 3
-Void_Points: 2
-Strength: 2
-Perception: 2
-Stamina: "2"
-Willpower: "2"
-Reflexes: 2
-Awareness: "2"
-Agility: 2
-Intelligence: "2"
+School: "[[Kakida Bushi]]"
+City:
+Tattoos:
+Religion:
+Family: "[[Doji Family]]"
+Clan: "[[Crane Clan]]"
 ---
-
->[!multi-column]
+> [!multi-column]
 >> [!blank-container | wide-3]
 >> ## Summary
->> A Member of the `=this.City.Province.SuperProvince.Family` of the `=this.City.Province.SuperProvince.Family.Clan`. Is a core member of [[The Party]].
+>> A Member of the `=this.City.Province.SuperProvince.Family` of the `=this.City.Province.SuperProvince.Family.Clan`. Is a core member of [[1 - The Party]].
 >>## Profile
 >>**Appearance**: 
 >>**Motivation**: 
@@ -39,7 +26,7 @@ Intelligence: "2"
 >
 >> [!infobox]
 >> ###### `=this.Name`
->>![](https://images6.alphacoders.com/545/thumb-1920-545820.jpg)
+>>![](https://i.pinimg.com/736x/04/1b/c9/041bc902c892c8b5d879f9cdc723d480.jpg)
 >>###### Overview
 >> | Attribute | Status |
 >> | --------- | ------- |

@@ -1,6 +1,6 @@
 {
-  "collapse-filter": false,
-  "search": "-path:z_Templates -path:Sessions  ",
+  "collapse-filter": true,
+  "search": "-file:\"1 - The Party\" -path:Elements -path:z_Templates -path:Sessions  -path:Locations",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": true,
@@ -64,17 +64,17 @@
       }
     },
     {
-      "query": "path: Conspiracies  ",
+      "query": "path: Affiliations",
       "color": {
         "a": 1,
-        "rgb": 0
+        "rgb": 16777215
       }
     },
     {
       "query": "path: NPCs",
       "color": {
         "a": 1,
-        "rgb": 4391004
+        "rgb": 13288194
       }
     }
   ],
@@ -89,5 +89,5 @@
   "linkStrength": 1,
   "linkDistance": 86,
   "scale": 0.5097982604196726,
-  "close": true
+  "close": false
 }

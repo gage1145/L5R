@@ -31,7 +31,7 @@ Intelligence: "2"
 > [!multi-column]
 >> [!blank-container | wide-3]
 >> ## Summary
->> A Member of the `=this.City.Province.SuperProvince.Family` of the `=this.City.Province.SuperProvince.Family.Clan`. Is a core member of [[The Party]].
+>> A Member of the `=this.City.Province.SuperProvince.Family` of the `=this.City.Province.SuperProvince.Family.Clan`. Is a core member of [[1 - The Party]].
 >>## Profile
 >>**Appearance**: Short, shaved head, heavily tattooed, stoic
 >>**Motivation**: Become enlightened

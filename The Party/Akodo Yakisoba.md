@@ -1,36 +1,25 @@
 ---
-Name: Kuni Yoshiuki
+Name: Akodo Yakisoba
 Gender: Male
 Race: Human
 Class: Samurai
 Condition: Alive
 Role: PC
 Age: Adult
-School: "[[Togashi Tattooed Order]]"
-City: "[[Kyuden Togashi]]"
-Tattoos: Dragon, Scorpion
-Religion: None
-Air: 2
-Earth: 2
-Fire: 3
-Water: 2
-Void: 3
-Void_Points: 2
-Strength: 2
-Perception: 2
-Stamina: "2"
-Willpower: "2"
-Reflexes: 2
-Awareness: "2"
-Agility: 2
-Intelligence: "2"
+School:
+City:
+Family: "[[Akodo Family]]"
+Tattoos:
+Religion:
+Clan: "[[Lion Clan]]"
 ---
-> [!multi-column]
+
+>[!multi-column]
 >> [!blank-container | wide-3]
 >> ## Summary
->> A Member of the `=this.City.Province.SuperProvince.Family` of the `=this.City.Province.SuperProvince.Family.Clan`. Is a core member of [[The Party]].
+>> A Member of the `=this.City.Province.SuperProvince.Family` of the `=this.City.Province.SuperProvince.Family.Clan`. Is a core member of [[1 - The Party]].
 >>## Profile
->>**Appearance**: Missing a big chunk of his face!
+>>**Appearance**: 
 >>**Motivation**: 
 >>**Most Trusted**: 
 >>
@@ -38,7 +27,7 @@ Intelligence: "2"
 >
 >> [!infobox]
 >> ###### `=this.Name`
->>![](https://img.playerauctions.com/guidepost/post_638877280149921909_852183.png)
+>>![](https://images6.alphacoders.com/545/thumb-1920-545820.jpg)
 >>###### Overview
 >> | Attribute | Status |
 >> | --------- | ------- |
