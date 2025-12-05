@@ -2,9 +2,7 @@
 Name: Togashi Hanzo
 Gender: Male
 Race: Human
-Class:
-  - Monk
-  - Samurai
+Class: Monk
 Condition: Alive
 Role: PC
 Age: Adult
@@ -64,24 +62,3 @@ Clan: "[[Dragon Clan]]"
 >> | City | `=this.City` |
 >> | School| `=this.School` |
 >>
->>###### Elements
->>| Element | Rank |
->>| ---- | ---- |
->>| Water | `=this.Water` |
->>| Earth | `=this.Earth` |
->>| Air | `=this.Air` |
->>| Fire | `=this.Fire` |
->>| Void | `=this.Void` |
->>
->>###### Traits
->>| Trait | Rank |
->>| ---- | ---- |
->>| Void Points | `=this.Void_Points` |
->>| Strength | `=this.Strength` |
->>| Perception | `=this.Perception` |
->>|Stamina | `=this.Stamina` |
->>| Willpower | `=this.Willpower` |
->>| Reflexes | `=this.Reflexes` |
->>| Awareness | `=this.Awareness` |
->>| Agility | `=this.Agility` |
->>| Intelligence | `=this.Intelligence` |

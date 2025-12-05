@@ -2,7 +2,200 @@
   "release": {
     "channel": "stable"
   },
-  "sharedFolders": [],
+  "sharedFolders": [
+    {
+      "path": "Affiliations",
+      "guid": "4014138d-0d23-4c77-a4f1-f95f9a2a38a5",
+      "relay": "44032229-67e7-4401-b48f-53f18491de39",
+      "sync": {
+        "images": true,
+        "audio": true,
+        "videos": true,
+        "pdfs": true,
+        "otherTypes": false
+      }
+    },
+    {
+      "path": "Clans",
+      "guid": "30f292eb-f273-4c91-a45b-87fed3746092",
+      "relay": "44032229-67e7-4401-b48f-53f18491de39",
+      "sync": {
+        "images": true,
+        "audio": true,
+        "videos": true,
+        "pdfs": true,
+        "otherTypes": false
+      }
+    },
+    {
+      "path": "Animals",
+      "guid": "dbc99ee5-517e-4e71-a1a0-1a5a7e6cc7a6",
+      "relay": "44032229-67e7-4401-b48f-53f18491de39",
+      "sync": {
+        "images": true,
+        "audio": true,
+        "videos": true,
+        "pdfs": true,
+        "otherTypes": false
+      }
+    },
+    {
+      "path": "Elements",
+      "guid": "3d83211d-efbc-4277-8ef1-2e14af850151",
+      "relay": "44032229-67e7-4401-b48f-53f18491de39",
+      "sync": {
+        "images": true,
+        "audio": true,
+        "videos": true,
+        "pdfs": true,
+        "otherTypes": false
+      }
+    },
+    {
+      "path": "Families",
+      "guid": "f00f07c1-ab6d-43db-9017-4b85465fdb60",
+      "relay": "44032229-67e7-4401-b48f-53f18491de39",
+      "sync": {
+        "images": true,
+        "audio": true,
+        "videos": true,
+        "pdfs": true,
+        "otherTypes": false
+      }
+    },
+    {
+      "path": "Kami",
+      "guid": "2ac197f9-a68e-43b9-9e4c-d97d57bff22d",
+      "relay": "44032229-67e7-4401-b48f-53f18491de39",
+      "sync": {
+        "images": true,
+        "audio": true,
+        "videos": true,
+        "pdfs": true,
+        "otherTypes": false
+      }
+    },
+    {
+      "path": "Locations",
+      "guid": "370869ac-6611-46a9-9f52-293bf983002e",
+      "relay": "44032229-67e7-4401-b48f-53f18491de39",
+      "sync": {
+        "images": true,
+        "audio": true,
+        "videos": true,
+        "pdfs": true,
+        "otherTypes": false
+      }
+    },
+    {
+      "path": "Monsters",
+      "guid": "a37c522d-149c-4d24-815e-dc2abaa9ab30",
+      "relay": "44032229-67e7-4401-b48f-53f18491de39",
+      "sync": {
+        "images": true,
+        "audio": true,
+        "videos": true,
+        "pdfs": true,
+        "otherTypes": false
+      }
+    },
+    {
+      "path": "NPCs",
+      "guid": "69de4ed6-898e-4108-b9cb-bc4aa3bfd632",
+      "relay": "44032229-67e7-4401-b48f-53f18491de39",
+      "sync": {
+        "images": true,
+        "audio": true,
+        "videos": true,
+        "pdfs": true,
+        "otherTypes": false
+      }
+    },
+    {
+      "path": "Religion",
+      "guid": "5b62281f-0bca-4217-81d7-b86112a2256e",
+      "relay": "44032229-67e7-4401-b48f-53f18491de39",
+      "sync": {
+        "images": true,
+        "audio": true,
+        "videos": true,
+        "pdfs": true,
+        "otherTypes": false
+      }
+    },
+    {
+      "path": "Schools",
+      "guid": "7185d4f9-cc89-4068-b572-43d1b9d7c112",
+      "relay": "44032229-67e7-4401-b48f-53f18491de39",
+      "sync": {
+        "images": true,
+        "audio": true,
+        "videos": true,
+        "pdfs": true,
+        "otherTypes": false
+      }
+    },
+    {
+      "path": "Sessions",
+      "guid": "792c0bec-0a4b-45bb-8d9f-08ec83bb9793",
+      "relay": "44032229-67e7-4401-b48f-53f18491de39",
+      "sync": {
+        "images": true,
+        "audio": true,
+        "videos": true,
+        "pdfs": true,
+        "otherTypes": false
+      }
+    },
+    {
+      "path": "Tattoos",
+      "guid": "4ea67f3f-481e-4cff-9490-f526d14d9237",
+      "relay": "44032229-67e7-4401-b48f-53f18491de39",
+      "sync": {
+        "images": true,
+        "audio": true,
+        "videos": true,
+        "pdfs": true,
+        "otherTypes": false
+      }
+    },
+    {
+      "path": "The Party",
+      "guid": "c21a056c-245a-41dc-8092-9f1eeb2bba28",
+      "relay": "44032229-67e7-4401-b48f-53f18491de39",
+      "sync": {
+        "images": true,
+        "audio": true,
+        "videos": true,
+        "pdfs": true,
+        "otherTypes": false
+      }
+    },
+    {
+      "path": "z_Templates",
+      "guid": "71452e01-762f-46b8-b1f6-e22591af74d7",
+      "relay": "44032229-67e7-4401-b48f-53f18491de39",
+      "sync": {
+        "images": true,
+        "audio": true,
+        "videos": true,
+        "pdfs": true,
+        "otherTypes": false
+      }
+    },
+    {
+      "path": "1 - Summaries",
+      "guid": "0cf84663-3401-49d3-b241-d8f42cef2ff2",
+      "relay": "44032229-67e7-4401-b48f-53f18491de39",
+      "sync": {
+        "images": true,
+        "audio": true,
+        "videos": true,
+        "pdfs": true,
+        "otherTypes": false
+      }
+    }
+  ],
   "endpoints": {},
   "enableDocumentStatus": false,
   "enableNewLinkFormat": false,
