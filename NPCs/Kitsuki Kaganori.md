@@ -1,7 +1,7 @@
 ---
 AKA:
 Province:
-Affiliations: "[[Gokunishi]]"
+Affiliations: "[[Gokenishi]]"
 Clan: "[[Dragon Clan]]"
 tags:
   - NPC

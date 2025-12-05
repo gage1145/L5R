@@ -1,7 +1,7 @@
 ---
 AKA:
 Province:
-Affiliations: "[[Gokunishi]]"
+Affiliations: "[[Gokenishi]]"
 Clan: "[[Badger Clan]]"
 tags:
   - NPC

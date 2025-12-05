@@ -9,7 +9,7 @@ Age: Adult
 School: "[[Usagi Bushi]]"
 City:
 Tattoos:
-Religion: None
+Religion:
 Family: "[[Usagi Family]]"
 Clan: "[[Hare Clan]]"
 ---

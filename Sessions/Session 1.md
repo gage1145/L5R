@@ -27,7 +27,7 @@ We meet [[Bayushi Nagitane]] at the end of the day. He offers to give us papers 
 
 ## Key Learnings
 
-### We must kill the [[Gokunishi]].
+### We must kill the [[Gokenishi]].
 
 1. The first is [[Ichiro Matsakatsu]]
 	- A horrible Badger.

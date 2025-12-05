@@ -1,7 +1,7 @@
 ---
 AKA:
 Province:
-Affiliations: "[[Gokunishi]]"
+Affiliations: "[[Gokenishi]]"
 Family: "[[Doji Family]]"
 tags:
   - NPC

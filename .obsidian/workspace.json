@@ -1,24 +1,24 @@
 {
   "main": {
-    "id": "cd5deb7f148c9435",
+    "id": "904de741636b91b9",
     "type": "split",
     "children": [
       {
-        "id": "294e2c6a99140100",
+        "id": "a27fa1c0b8abab86",
         "type": "tabs",
         "children": [
           {
-            "id": "27f175cffa10c3f4",
+            "id": "6c3a80b6c334f436",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - Summaries/1 - The Party.md",
+                "file": "1 - Summaries/2 - NPCs.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "1 - The Party"
+              "title": "2 - NPCs"
             }
           }
         ]
@@ -27,15 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "735ddb0a99408540",
+    "id": "550dbaa7ca3d8b41",
     "type": "split",
     "children": [
       {
-        "id": "6892b2b818795ca4",
+        "id": "91c8a3b8bfe856b8",
         "type": "tabs",
         "children": [
           {
-            "id": "e4696843b46d290b",
+            "id": "c127dd3a5644b05a",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -48,7 +48,7 @@
             }
           },
           {
-            "id": "631b092018322337",
+            "id": "870e27a0af0e1965",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -65,7 +65,7 @@
             }
           },
           {
-            "id": "f17525379665b40f",
+            "id": "58f35677fb844bfd",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -74,27 +74,28 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 234.5
   },
   "right": {
-    "id": "6c14bc54af54f357",
+    "id": "bda7da5128f59014",
     "type": "split",
     "children": [
       {
-        "id": "5383acc3c3ce01ba",
+        "id": "f9e3614c3a366dd9",
         "type": "tabs",
         "children": [
           {
-            "id": "64e5fd7e8aec5704",
+            "id": "3c9e59a1c722332a",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The Party/PCs/Togashi Hanzo.md",
+                "file": "MC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,25 +105,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Togashi Hanzo"
+              "title": "Backlinks for MC"
             }
           },
           {
-            "id": "5fe1b0ea0aaf9ca8",
+            "id": "dfa1276435d26c22",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "The Party/PCs/Togashi Hanzo.md",
+                "file": "MC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Togashi Hanzo"
+              "title": "Outgoing links from MC"
             }
           },
           {
-            "id": "7ba024885ce7b94e",
+            "id": "95c4a133c7bee583",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -137,7 +138,7 @@
             }
           },
           {
-            "id": "038eef139834b0f7",
+            "id": "e17432795c76cfb6",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -151,28 +152,38 @@
             }
           },
           {
-            "id": "e3b568150a592ff9",
+            "id": "f251dac68497a757",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "The Party/PCs/Togashi Hanzo.md",
+                "file": "MC.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Togashi Hanzo"
+              "title": "Outline of MC"
             }
           },
           {
-            "id": "e14c53ea74189ca7",
+            "id": "2ca7bfc7cf8a9ec2",
             "type": "leaf",
             "state": {
               "type": "git-view",
               "state": {},
               "icon": "git-pull-request",
               "title": "Source Control"
+            }
+          },
+          {
+            "id": "3034ea64f63125bf",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "advanced-tables-toolbar"
             }
           }
         ],
@@ -191,42 +202,51 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false,
+      "templater-obsidian:Templater": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-leaflet-plugin:Open Leaflet Map": false,
-      "templater-obsidian:Templater": false,
-      "obsidian-git:Open Git source control": false,
       "system3-relay:Relay": false
     }
   },
-  "active": "27f175cffa10c3f4",
+  "active": "6c3a80b6c334f436",
   "lastOpenFiles": [
-    "The Party/Togashi Hanzo.md",
-    "1 - Summaries/1 - The Party.md",
-    "The Party/Akodo Yakisoba.md",
-    "The Party/Doji Gaoxing.md",
-    "The Party/Doji Junji.md",
-    "The Party/Usagi Haku.md",
-    "The Party/Kuni Yoshiuki.md",
-    "1 - Summaries/3 - Sessions.md",
+    "Affiliations/Gokenishi.md",
     "1 - Summaries/2 - NPCs.md",
+    "NPCs/Daidoji Kotarō.md",
+    "1 - Summaries/3 - Sessions.md",
+    "1 - Summaries/1 - The Party.md",
+    "The Party/Usagi Haku.md",
+    "The Party/Togashi Hanzo.md",
+    "2 - NPCs.md",
     "1 - Summaries",
+    "3 - Sessions.md",
+    "Sessions/Session 1.md",
+    "z_Templates/Template - Session.md",
+    "Sessions/Session 2.md",
+    "1 - The Party.md",
     "NPCs/Daidoji Karuki.md",
     "Families/Daidoji Family.md",
-    "Clans/Badger Clan.md",
-    "Affiliations/Kyōtsū no michi.md",
-    "Affiliations/Gokunishi.md",
-    "Affiliations/Emerald Empire.md",
-    "Affiliations",
-    "The Party/The Party.md",
-    "Locations/Castles/Shiro Mirumoto.md",
-    "The Party/PCs/Doji Gaoxing.md",
-    "The Party/PCs/Togashi Hanzo.md",
-    "The Party/PCs/Kuni Yoshiuki.md",
-    "The Party/PCs/Doji Junji.md",
-    "NPCs/Doji Mitsuhide.md",
-    "Families/Doji Family.md",
-    "Sessions/Session 1.md",
     "z_Templates/Template - NPC.md",
-    "Animals"
+    "NPCs/Bayushi Nagitane.md",
+    "Locations/Provinces/Ishigaki Province.md",
+    "NPCs/Seppun Haruhisa.md",
+    "Clans/Lion Clan.md",
+    "Families/Seppun Family.md",
+    "Affiliations/Emerald Empire.md",
+    "The Party/Kuni Yoshiuki.md",
+    "The Party/Doji Junji.md",
+    "Families/Togashi Order.md",
+    "The Party/Doji Gaoxing.md",
+    "Untitled",
+    "Affiliations",
+    "Locations/Castles",
+    "Locations/Family Lands",
+    "Locations/Provinces",
+    "Kami",
+    "rokugan.jpg",
+    "Tattoos",
+    "Races",
+    "Schools"
   ]
 }
