@@ -13,30 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "z_Templates/Template - Session.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Template - Session"
-            }
-          },
-          {
-            "id": "577d790fe60d1c2e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "Sessions/Session 1.md",
-                "mode": "source",
-                "source": false
+                "mode": "preview",
+                "source": true
               },
               "icon": "lucide-file",
               "title": "Session 1"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -223,12 +208,14 @@
       "system3-relay:Relay": false
     }
   },
-  "active": "577d790fe60d1c2e",
+  "active": "43d35328aa3caff9",
   "lastOpenFiles": [
     "3 - Sessions.md",
-    "Sessions/Session 1.md",
     "z_Templates/Template - Session.md",
     "2 - NPCs.md",
+    "Sessions/Session 1.md",
+    "Sessions/Session 2.md",
+    "1 - The Party.md",
     "NPCs/Daidoji Karuki.md",
     "NPCs/Daidoji Kotarō.md",
     "Families/Daidoji Family.md",
@@ -248,9 +235,6 @@
     "The Party/Doji Gaoxing.md",
     "The Party/Akodo Yakisoba.md",
     "NPCs/Ichiro Matsakatsu.md",
-    "Clans/Badger Clan.md",
-    "NPCs/Ikoma Mitsunari.md",
-    "NPCs/Hiruma Katahide.md",
     "Untitled",
     "Affiliations",
     "Locations/Castles",

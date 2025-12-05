@@ -1,5 +1,17 @@
+<%*
+const title = tp.file.title;
+let sessionNumber;
+let previous;
+if (title.startsWith("Untitled")) {
+	sessionNumber = await tp.system.prompt("Enter Session Number");
+	await tp.file.rename("Session " + sessionNumber);
+	previous = parseInt(sessionNumber) - 1
+}
+-%>
 ---
 date: <% tp.date.now("YYYY-MM-DD") %>
+session: <% sessionNumber %>
+previous: <% previous %>
 ---
 ## Characters
 - **Name**

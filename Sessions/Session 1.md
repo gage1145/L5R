@@ -1,5 +1,7 @@
 ---
 date: 2025-12-03
+session: "1"
+summary: "The party was inducted into the **Kyōtsū no michi**, a conspiracy to eliminate the emperor’s disgraced brother, **Seppun Haruhisa**, after learning of his crimes against the Hare Clan. They received their first directive: travel through Unicorn lands with the aid of **Daidoji Karuki** and ultimately hunt down the four members of the **Gokunishi**. Gaoxing privately proposed building a Crane information network for Kotarō. At day's end, **Bayushi Nagitane** offered documents granting safe passage through Scorpion territory. The party must decide whether to use these documents, or continue on with the original plan."
 ---
 
 ## Characters
