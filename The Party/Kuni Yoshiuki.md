@@ -6,11 +6,12 @@ Class: Samurai
 Condition: Alive
 Role: PC
 Age: Adult
-School: 
-City: 
-Tattoos: 
-Religion: 
+School:
+City:
+Tattoos:
+Religion:
 Family: "[[Kuni Family]]"
+Affiliations: "[[Kyōtsū no michi]]"
 ---
 > [!multi-column]
 >> [!blank-container | wide-3]
@@ -44,4 +45,6 @@ Family: "[[Kuni Family]]"
 >> | Provinces | `=this.City.Province.SuperProvince` | 
 >> | Province | `=this.Province` |
 >> | City | `=this.City` |
+>> | School| `=this.School` |
+his.City` |
 >> | School| `=this.School` |

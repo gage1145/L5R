@@ -12,6 +12,7 @@ Tattoos:
 Religion:
 Family: "[[Doji Family]]"
 Clan: "[[Crane Clan]]"
+Affiliations: "[[Kyōtsū no michi]]"
 ---
 > [!multi-column]
 >> [!blank-container | wide-3]
@@ -47,3 +48,4 @@ Clan: "[[Crane Clan]]"
 >> | City | `=this.City` |
 >> | School| `=this.School` |
 >>
+

@@ -9,9 +9,10 @@ Age: Adult
 School: "[[Usagi Bushi]]"
 City:
 Tattoos:
-Religion:
+igion: None
 Family: "[[Usagi Family]]"
 Clan: "[[Hare Clan]]"
+Affiliations: "[[Kyōtsū no michi]]"
 ---
 > [!multi-column]
 >> [!blank-container | wide-3]
@@ -46,3 +47,4 @@ Clan: "[[Hare Clan]]"
 >> | Province | `=this.City.Province` |
 >> | City | `=this.City` |
 >> | School| `=this.School` |
+

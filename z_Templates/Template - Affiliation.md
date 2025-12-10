@@ -1,4 +1,5 @@
-A plot to kill the emperor's brother [[Seppun Haruhisa]].
+## Summary
+
 
 ## Affiliates
 ```dataview

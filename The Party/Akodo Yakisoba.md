@@ -12,6 +12,7 @@ Family: "[[Akodo Family]]"
 Tattoos:
 Religion:
 Clan: "[[Lion Clan]]"
+Affiliations: "[[Kyōtsū no michi]]"
 ---
 
 >[!multi-column]
@@ -43,8 +44,7 @@ Clan: "[[Lion Clan]]"
 >> | ---- | ---- |
 >> | Clan | `=this.City.Province.SuperProvince.Family.Clan` |
 >> | Family | `=this.City.Province.SuperProvince.Family` |
->> | Provinces | `=this.City.Province.SuperProvince` | 
->> | Province | `=this.City.Province` |
->> | City | `=this.City` |
+>> | Provinces | `=this.City.Province.SuperProvince>> | City | `=this.City` |
 >> | School| `=this.School` |
->>
+>>ty` |
+>>| Intelligence | `=this.Intelligence` |

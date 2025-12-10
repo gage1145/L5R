@@ -1,7 +1,7 @@
 ---
 AKA:
 Province:
-Affiliations: "[[Gokenishi]]"
+Affiliations: "[[Gokunishi]]"
 tags:
   - NPC
 sentiment: Enemy

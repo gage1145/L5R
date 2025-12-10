@@ -7,4 +7,4 @@ tags:
   - NPC
 sentiment: Enemy
 ---
-A member of the Gokunishi. A brutal man.
+A member of the Gokenishi. A brutal man.

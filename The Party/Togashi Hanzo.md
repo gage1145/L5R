@@ -8,10 +8,13 @@ Role: PC
 Age: Adult
 School: "[[Togashi Tattooed Order]]"
 City: "[[Kyuden Togashi]]"
-Tattoos: Dragon, Scorpion
+Tattoos: 
+  - Dragon
+  - Scorpion
 Religion: None
 Family: "[[Togashi Order]]"
 Clan: "[[Dragon Clan]]"
+Affiliations: "[[Kyōtsū no michi]]"
 ---
 
 > [!multi-column]
