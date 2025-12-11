@@ -2,7 +2,7 @@
 date: 2025-12-10
 session: 2
 previous: "[[Session 1]]"
-summary: The party traveled within Crane lands using papers from Daidoji Kentaro, choosing to sail from Lonely Shore City to Prosperous Plains City on a ship captained by Daidoji Dobunaru. Lodging for the night proved complicated—Akodo quietly paid for the group while Gaoxing involved himself in the innkeep’s personal life, ultimately arranging a marriage alliance for him. After a rough sea voyage, the group arrived in Prosperous Plains and continued on to the estate of Matsu Miyoko, a former rival of Gaoxing’s. There, Gaoxing proposed that his son Doji Junji duel Matsu, and she accepted the challenge to first blood.
+summary: The party traveled within Crane lands using papers from Daidoji Kentaro, choosing to sail from Lonely Shore City to Prosperous Plains City on a ship captained by Daidoji Dobunaru. Lodging for the night proved complicated—Akodo quietly paid for the group while Gaoxing involved himself in the innkeep’s personal life, ultimately arranging a marriage alliance for him. After a rough sea voyage, the group arrived in Prosperous Plains and continued on to the estate of Matsu Miyoko, a former rival of Gaoxing’s. There, Gaoxing proposed that his son Doji Junji duel Matsu, and she accepted the challenge to first blood. Junji won the duel.
 ---
 ## Characters
 - **[[Togashi Hanzo]]**
@@ -59,7 +59,7 @@ Soon there was a loud ruckus, and a giant parade bursts through the door with a 
 
 ***"You have grown so much."***
 
- Gaoxin implies that he wants his son, Junji, to duel her. She accepts, to first blood!
+ Gaoxin implies that he wants his son, Junji, to duel her. She accepts, to first blood! Junji managed to draw first blood. They bowed to each other, and she showed her respect to our Crane fellows.
 
 ## Key Learnings
 - Samurai are so fucking weird about money.
