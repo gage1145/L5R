@@ -2,7 +2,7 @@
 date: 2025-12-10
 session: 2
 previous: "[[Session 1]]"
-summary:
+summary: The party traveled within Crane lands using papers from Daidoji Kentaro, choosing to sail from Lonely Shore City to Prosperous Plains City on a ship captained by Daidoji Dobunaru. Lodging for the night proved complicated—Akodo quietly paid for the group while Gaoxing involved himself in the innkeep’s personal life, ultimately arranging a marriage alliance for him. After a rough sea voyage, the group arrived in Prosperous Plains and continued on to the estate of Matsu Miyoko, a former rival of Gaoxing’s. There, Gaoxing proposed that his son Doji Junji duel Matsu, and she accepted the challenge to first blood.
 ---
 ## Characters
 - **[[Togashi Hanzo]]**
@@ -41,8 +41,25 @@ Togashi got no sleep that night. In the morning, the innkeep approached Akodo an
 
 Gaoxing played matchmaker for the innkeep. He found a lead on a rice magnate who's been picky about suitors for his daughter. Gaoxing met with this fucking guy and convinced him to marry his daughter to the innkeep.
 
-### Disembarking
+### Journey in The Prosperous Plains City
+We left in the morning. Usagi fuckin barfed from sea sickness. Gaoxing slyly insinuated that one of the fishermen should give him his fishing rod. They were absolutely elated to give it to him. Gaoxing is a menace. 
 
+We approached the Prosperous Plains.
+
+Gaoxing prepared some fish for Akodo and offered him the fishing rod.
+
+### The Estate of Matsu Miyoko
+Within the city, Gaoxing shows us around the city. I think he was actually looking to see if he recognized anyone, but he hasn't known anyone in this city in a long time. Eventually, we come across an area with several estates. We enter one with a Lion banner. This is the house of [[Matsu Miyoko]], a woman who once dueled Gaoxing. 
+
+Akodo just stopped following once he found some tasty food.
+
+One of the handlers invited us to stay the night.
+
+Soon there was a loud ruckus, and a giant parade bursts through the door with a bunch of Lion bushi. They come to a halt, and the music ceases. Master Matsu stepped forward and addressed Gaoxin.
+
+***"You have grown so much."***
+
+ Gaoxin implies that he wants his son, Junji, to duel her. She accepts, to first blood!
 
 ## Key Learnings
 - Samurai are so fucking weird about money.
@@ -50,6 +67,7 @@ Gaoxing played matchmaker for the innkeep. He found a lead on a rice magnate who
 ## Who Did We Meet?
 - [[Daidoji Dobunaru]]: Captain of the boat out of Lonely Shore.
 - [[Kasuga Hemorei]]: Samurai in [[Lonely Shore City]] who runs a money exchange.
+- [[Matsu Miyoko]]: Lion Clan samurai who gave us lodging in Prosperous Plains City.
 
 ## Items Of Importance
 - Description

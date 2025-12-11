@@ -9,4 +9,4 @@ sentiment: Ally
 Clan: "[[Lion Clan]]"
 ---
 ## Summary
-A member of the Kyōtsū no michi and the aged Kūrodo (or chamberlain) for the Ikoma family of the Lion Clan.  Primary point of contact with the conspiracy for Mitchell's character.
+A member of the Kyōtsū no michi and the aged Kūrodo (or chamberlain) for the Ikoma family of the Lion Clan.  Primary point of contact with the conspiracy for [[Akodo Yakisoba]].
