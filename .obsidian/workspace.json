@@ -6,6 +6,7 @@
       {
         "id": "e11433674021ad76",
         "type": "tabs",
+        "dimension": 47.5,
         "children": [
           {
             "id": "05c76963386c9ae1",
@@ -27,16 +28,33 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NPCs/Daidoji Haruki.md",
+                "file": "Sessions/Session 2.md",
                 "mode": "source",
-                "source": true
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "Daidoji Haruki"
+              "title": "Session 2"
             }
           }
         ],
         "currentTab": 1
+      },
+      {
+        "id": "7d14d1e667e2d046",
+        "type": "tabs",
+        "dimension": 52.5,
+        "children": [
+          {
+            "id": "3a2f585205409aab",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -93,7 +111,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "6c14bc54af54f357",
@@ -203,8 +221,14 @@
       "system3-relay:Relay": false
     }
   },
-  "active": "ff2ed45a8aab0428",
+  "active": "3a2f585205409aab",
   "lastOpenFiles": [
+    "1 - Summaries/3 - Sessions.md",
+    "Sessions/Session 2.md",
+    "Sessions/Session 1.md",
+    "1 - Summaries/2 - NPCs.md",
+    "1 - Summaries/1 - The Party.md",
+    "NPCs/Daidoji Haruki.md",
     "NPCs/Bayushi Nagitane.md",
     "The Party/Usagi Haku.md",
     "z_Templates/Template - Affiliation.md",
@@ -219,20 +243,14 @@
     "Affiliations/Emerald Empire.md",
     "NPCs/Seppun Haruhisa.md",
     "NPCs/Lady Night.md",
-    "NPCs/Daidoji Haruki.md",
     "NPCs/Ikoma Mitsunari.md",
     "NPCs/Ichiro Masakatsu.md",
-    "1 - Summaries/3 - Sessions.md",
-    "1 - Summaries/1 - The Party.md",
-    "1 - Summaries/2 - NPCs.md",
     "1 - Summaries",
     "Families/Daidoji Family.md",
     "Clans/Badger Clan.md",
     "Affiliations/Gokunishi.md",
     "Affiliations",
     "The Party/The Party.md",
-    "Locations/Castles/Shiro Mirumoto.md",
-    "The Party/PCs/Doji Gaoxing.md",
     "Animals"
   ]
 }

@@ -15,5 +15,13 @@
       ],
       "key": "M"
     }
+  ],
+  "workspace:split-vertical": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "ArrowRight"
+    }
   ]
 }

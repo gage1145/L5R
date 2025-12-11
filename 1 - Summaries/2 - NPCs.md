@@ -10,9 +10,3 @@ TABLE AKA, Affiliations, Province, Family, Clan
 FROM "NPCs"
 WHERE sentiment = "Enemy"
 ```
-## Neutral
-```dataview
-TABLE AKA, Affiliations, Province, Family, Clan 
-FROM "NPCs"
-WHERE sentiment = "Neutral"
-```
