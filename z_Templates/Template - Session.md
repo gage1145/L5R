@@ -11,7 +11,8 @@ if (title.startsWith("Untitled")) {
 ---
 date: <% tp.date.now("YYYY-MM-DD") %>
 session: <% sessionNumber %>
-previous: <% previous %>
+previous:  "[[Session <% previous %>]]"
+summary:
 ---
 ## Characters
 - **Name**
@@ -25,8 +26,6 @@ Brief session overview.
 ## Who Did We Meet?
 **Name.** Description
 
-## Items Of Importance
-- Description
-
-## What Worked
+## Items Oat Worked
+- Small description.Worked
 - Small description.

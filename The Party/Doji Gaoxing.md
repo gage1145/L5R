@@ -13,6 +13,7 @@ Religion:
 Family: "[[Doji Family]]"
 Clan: "[[Crane Clan]]"
 Affiliations: "[[Kyōtsū no michi]]"
+Province: "[[Kougen Province]]"
 ---
 > [!multi-column]
 >> [!blank-container | wide-3]

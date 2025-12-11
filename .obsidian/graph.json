@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "-path:z_Templates -path:Sessions ",
+  "search": "-path:\"1 - Summaries\" -path:z_Templates -path:Elements -path:Sessions  ",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": true,

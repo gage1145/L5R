@@ -15,7 +15,7 @@ summary: "The party was inducted into the **Kyōtsū no michi**, a conspiracy to
 ## Overview
 The characters met and after making acquaintance, we were led into a chamber. We met an austere Crane, a skinny Crab with an eye patch, and an older, fit Dragon, and an ancient Lion.
 
-We bowed and took a seat. [[Daidoji Kotarō]] addressed us. The emperor's brother is known to be deprecated. Recently he defiled the Hare clan. The second son of the Hare clan were killed because of [[Seppun Haruhisa]] (the brother).
+We bowed and took a seat. [[Daidoji Kentarō]] addressed us. The emperor's brother is known to be deprecated. Recently he defiled the Hare clan. The second son of the Hare clan were killed because of [[Seppun Haruhisa]] (the brother).
 
 We learned of the [[Kyōtsū no michi]], the plot to kill the emperor's brother. We are now all members of the conspiracy.
 
@@ -26,10 +26,8 @@ Gaoxing has a moment alone with Kotaro after the group was dismissed. He believe
 We meet [[Bayushi Nagitane]] at the end of the day. He offers to give us papers for direct passage through Scorpion territory into Unicorn lands. On the other hand, we could pass through Hare lands, though the Hare could give us trouble.
 
 ## Key Learnings
-
-### We must kill the [[Gokunishi]].
-
-1. The first is [[Ichiro Matsakatsu]]
+We must kill the [[Gokenishi]]
+1. The first is [[Ichiro Masakatsu]]
 	- A horrible Badger.
 2. The second is [[Kitsuki Kaganori]]
 	- Commands wicked ronin
@@ -40,9 +38,11 @@ We meet [[Bayushi Nagitane]] at the end of the day. He offers to give us papers 
 4. The fourth is [[Doji Mitsuhide]]
 
 ## Who Did We Meet?
-- [[Daidoji Kotarō]]
+- [[Daidoji Kentarō]]
 - [[Mirumoto Naomori]]
 - [[Ikoma Mitsunari]]
 - [[Hiruma Katahide]]
 - [[Bayushi Nagitane]]
+
+
 
