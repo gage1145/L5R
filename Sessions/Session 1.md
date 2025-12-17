@@ -26,8 +26,9 @@ Gaoxing has a moment alone with Kotaro after the group was dismissed. He believe
 We meet [[Bayushi Nagitane]] at the end of the day. He offers to give us papers for direct passage through Scorpion territory into Unicorn lands. On the other hand, we could pass through Hare lands, though the Hare could give us trouble.
 
 ## Key Learnings
-We must kill the [[Gokenishi]]
-1. The first is [[Ichiro Masakatsu]]
+We must kill the [[Gokenii]].
+
+1. The first is [[Ichiro Matsakatsu]]
 	- A horrible Badger.
 2. The second is [[Kitsuki Kaganori]]
 	- Commands wicked ronin
@@ -42,7 +43,9 @@ We must kill the [[Gokenishi]]
 - [[Mirumoto Naomori]]
 - [[Ikoma Mitsunari]]
 - [[Hiruma Katahide]]
-- [[Bayushi Nagitane]]
+- [[Bayushi Nagi
+
+tane]]
 
 
 
