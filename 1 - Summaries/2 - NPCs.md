@@ -1,18 +1,21 @@
 ## Allies
 ```dataview
-TABLE AKA, Affiliations, Province, Family, Clan 
-FROM "NPCs"
+TABLE WITHOUT ID
+file.link AS Name, AKA, Affiliations, Province, Family, Clan 
+FROM #NPC 
 WHERE sentiment = "Ally"
 ```
 ## Enemies
 ```dataview
-TABLE AKA, Affiliations, Province, Family, Clan 
-FROM "NPCs"
+TABLE WITHOUT ID
+file.link AS Name,  AKA, Affiliations, Province, Family, Clan 
+FROM #NPC 
 WHERE sentiment = "Enemy"
 ```
 ## Neutral
 ```dataview
-TABLE AKA, Affiliations, Province, Family, Clan 
-FROM "NPCs"
+TABLE WITHOUT ID
+file.link AS Name,  AKA, Affiliations, Province, Family, Clan 
+FROM #NPC 
 WHERE sentiment = "Neutral"
 ```

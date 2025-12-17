@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "a27fa1c0b8abab86",
+        "id": "5dfd55cc0bae908f",
         "type": "tabs",
         "children": [
           {
-            "id": "6c3a80b6c334f436",
+            "id": "6fd2c2bbfac20beb",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -74,8 +74,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -191,7 +190,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -209,35 +209,37 @@
       "system3-relay:Relay": false
     }
   },
-  "active": "6c3a80b6c334f436",
+  "active": "6fd2c2bbfac20beb",
   "lastOpenFiles": [
-    "Affiliations/Gokenishi.md",
+    "NPCs/Jurō.md",
     "1 - Summaries/2 - NPCs.md",
-    "NPCs/Daidoji Kotarō.md",
-    "1 - Summaries/3 - Sessions.md",
-    "1 - Summaries/1 - The Party.md",
-    "The Party/Usagi Haku.md",
-    "The Party/Togashi Hanzo.md",
-    "2 - NPCs.md",
-    "1 - Summaries",
-    "3 - Sessions.md",
-    "Sessions/Session 1.md",
-    "z_Templates/Template - Session.md",
-    "Sessions/Session 2.md",
-    "1 - The Party.md",
-    "NPCs/Daidoji Karuki.md",
-    "Families/Daidoji Family.md",
+    "Locations/Cities/Tochi.md",
+    "Locations/Family Lands/Daidoji Provinces.md",
+    "Locations/Cities/Yufuku na Heigen Toshi.md",
+    "Locations/Cities/Mura Sabishii Toshi.md",
+    "z_Templates/Template - Affiliation.md",
+    "z_Templates/Template - Castle.md",
+    "z_Templates/Template - Clan.md",
+    "z_Templates/Template - Creature.md",
+    "z_Templates/Template - Family.md",
+    "z_Templates/Template - Monster.md",
+    "z_Templates/Template - School.md",
+    "z_Templates/Template - Province.md",
     "z_Templates/Template - NPC.md",
-    "NPCs/Bayushi Nagitane.md",
-    "Locations/Provinces/Ishigaki Province.md",
-    "NPCs/Seppun Haruhisa.md",
-    "Clans/Lion Clan.md",
-    "Families/Seppun Family.md",
-    "Affiliations/Emerald Empire.md",
-    "The Party/Kuni Yoshiuki.md",
-    "The Party/Doji Junji.md",
-    "Families/Togashi Order.md",
-    "The Party/Doji Gaoxing.md",
+    "z_Templates/Template - Individual.md",
+    "z_Templates/Template - Location.md",
+    "Locations/Villages/Tochi.md",
+    "Locations/Villages",
+    "Locations/Castles/Shiro Mirumoto.md",
+    "Locations/Castles/Ranshudin.md",
+    "Sessions/Session 2.md",
+    "2.md",
+    "Locations/Cities",
+    "NPCs/Matsu Mioko.md",
+    "NPCs/Kasuga Himori.md",
+    "NPCs/Doji Nobinaru.md",
+    "1 - Summaries/3 - Sessions.md",
+    "1 - Summaries",
     "Untitled",
     "Affiliations",
     "Locations/Castles",
@@ -245,8 +247,6 @@
     "Locations/Provinces",
     "Kami",
     "rokugan.jpg",
-    "Tattoos",
-    "Races",
-    "Schools"
+    "Tattoos"
   ]
 }

@@ -1,5 +1,5 @@
 ---
-Capital: 
+Capital:
 Population: 
 Military: 
 Imports:
@@ -12,4 +12,3 @@ Kami:
 ## Lands
 
 ## Families & Monastic Orders
-1. 

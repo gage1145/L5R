@@ -1,0 +1,1 @@
+[[Seppun Haruhisa]]'s closest allies and last line of defense.
