@@ -9,24 +9,10 @@ Class:
 Condition: Alive
 Role: PC
 Age: Adult
-School: "[[Togashi Tattooed Order]]"
-City: "[[Kyuden Togashi]]"
-Tattoos: Dragon, Scorpion
-Religion: None
-Air: 2
-Earth: 2
-Fire: 3
-Water: 2
-Void: 3
-Void_Points: 2
-Strength: 2
-Perception: 2
-Stamina: "2"
-Willpower: "2"
-Reflexes: 2
-Awareness: "2"
-Agility: 2
-Intelligence: "2"
+School: 
+City: 
+Tattoos: 
+Religion: 
 ---
 > [!multi-column]
 >> [!blank-container | wide-3]
