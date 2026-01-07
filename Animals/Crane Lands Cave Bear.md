@@ -1,0 +1,1 @@
+A bear that [[Akodo Yakisoba]] ran into after being fooled by a group of [[Kapa]] in [[Session 4]].

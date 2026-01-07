@@ -65,3 +65,4 @@ Affiliations: "[[Kyōtsū no michi]]"
 >> | City | `=this.City` |
 >> | School| `=this.School` |
 >>
+

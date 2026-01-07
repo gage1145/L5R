@@ -17,5 +17,22 @@
   "ITS@@ITS-Sizes": "none",
   "ITS@@radius-s": 0,
   "ITS@@file-line-width": 1000,
-  "ITS@@ITS-Table-Styling": "tables-style-wikipedia"
+  "ITS@@ITS-Table-Styling": "tables-style-wikipedia",
+  "ITS@@justified": false,
+  "ITS@@lig": true,
+  "ITS@@font": "'brush-tipTexe TRIAL', 'Brush Script MT'",
+  "ITS@@ITS-Note-Title-Styling": "file-header-gradient",
+  "ITS@@header-weight": 200,
+  "ITS@@header-border-line-height": 3,
+  "ITS@@heading-spacing": 30,
+  "ITS@@ITS-Header-positions": "headings-left",
+  "ITS@@hide-header-underline": false,
+  "ITS@@heading-spacing-bottom": 10,
+  "ITS@@heading-spacing-top": 10,
+  "ITS@@h1-size": 40,
+  "ITS@@h2-size": 38,
+  "ITS@@h3-size": 32,
+  "ITS@@h4-size": 28,
+  "ITS@@h5-size": 24,
+  "ITS@@h6-size": 20
 }

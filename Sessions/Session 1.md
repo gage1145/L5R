@@ -19,7 +19,7 @@ We bowed and took a seat. [[Daidoji Kentarō]] addressed us. The emperor's broth
 
 We learned of the [[Kyōtsū no michi]], the plot to kill the emperor's brother. We are now all members of the conspiracy.
 
-We must first visit [[Daidoji Karuki]] who will help us travel through Unicorn land into Badger lands.
+We must first visit [[Daidoji Haruki]] who will help us travel through Unicorn land into Badger lands.
 
 Gaoxing has a moment alone with Kotaro after the group was dismissed. He believes he has the knowledge to form allies that could aid us in the task. He has an idea for a network of agents within Crane territory. He will also need a method for sending letters to Kotaro's estate.
 

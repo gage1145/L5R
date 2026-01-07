@@ -1,7 +1,10 @@
 {
   "enabledCssSnippets": [
-    "multi-column"
+    "multi-column",
+    "brushtip"
   ],
   "cssTheme": "ITS Theme",
-  "theme": "obsidian"
+  "theme": "obsidian",
+  "textFontFamily": "",
+  "interfaceFontFamily": ""
 }
