@@ -1,6 +1,6 @@
 {
-  "collapse-filter": false,
-  "search": "-path:\"1 - Summaries\" -path:z_Templates -path:Elements -path:Sessions  ",
+  "collapse-filter": true,
+  "search": "-path: Elements -path:z_Templates -path:Sessions ",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": true,
@@ -78,8 +78,9 @@
       }
     }
   ],
-  "collapse-display": false,
+  "collapse-display": true,
   "showArrow": false,
+<<<<<<< HEAD
   "textFadeMultiplier": -0.7,
   "nodeSizeMultiplier": 0.7890625,
   "lineSizeMultiplier": 0.7890625,
@@ -90,4 +91,16 @@
   "linkDistance": 86,
   "scale": 0.3202632219663839,
   "close": true
+=======
+  "textFadeMultiplier": -1.1,
+  "nodeSizeMultiplier": 1.06979166666667,
+  "lineSizeMultiplier": 1.83541666666667,
+  "collapse-forces": false,
+  "centerStrength": 0.197916666666667,
+  "repelStrength": 6.66666666666667,
+  "linkStrength": 0.713541666666667,
+  "linkDistance": 162,
+  "scale": 0.22811334103563244,
+  "close": false
+>>>>>>> a602751b9cf4325507958d2d3bf4b9dcd0d76267
 }

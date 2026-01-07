@@ -1,4 +1,4 @@
 ---
-Province: "[[Toshibu Province]]"
+Province:
 ---
 ## Summary

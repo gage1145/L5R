@@ -4,11 +4,19 @@
     "type": "split",
     "children": [
       {
+<<<<<<< HEAD
         "id": "c880773602fbcabf",
         "type": "tabs",
         "children": [
           {
             "id": "f88e41b9b054905a",
+=======
+        "id": "5dfd55cc0bae908f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6fd2c2bbfac20beb",
+>>>>>>> a602751b9cf4325507958d2d3bf4b9dcd0d76267
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -201,6 +209,7 @@
       "system3-relay:Relay": false
     }
   },
+<<<<<<< HEAD
   "active": "e4696843b46d290b",
   "lastOpenFiles": [
     "Tattoos/Scorpion Tattoo.md",
@@ -231,8 +240,46 @@
     "Locations/Villages",
     "Locations/Cities",
     "Sessions/Session 1.md",
+=======
+  "active": "6fd2c2bbfac20beb",
+  "lastOpenFiles": [
+    "NPCs/Jurō.md",
+    "1 - Summaries/2 - NPCs.md",
+    "Locations/Cities/Tochi.md",
+    "Locations/Family Lands/Daidoji Provinces.md",
+    "Locations/Cities/Yufuku na Heigen Toshi.md",
+    "Locations/Cities/Mura Sabishii Toshi.md",
+    "z_Templates/Template - Affiliation.md",
+    "z_Templates/Template - Castle.md",
+    "z_Templates/Template - Clan.md",
+    "z_Templates/Template - Creature.md",
+    "z_Templates/Template - Family.md",
+    "z_Templates/Template - Monster.md",
+    "z_Templates/Template - School.md",
+    "z_Templates/Template - Province.md",
+    "z_Templates/Template - NPC.md",
+    "z_Templates/Template - Individual.md",
+    "z_Templates/Template - Location.md",
+    "Locations/Villages/Tochi.md",
+    "Locations/Villages",
+    "Locations/Castles/Shiro Mirumoto.md",
+    "Locations/Castles/Ranshudin.md",
+    "Sessions/Session 2.md",
+    "2.md",
+    "Locations/Cities",
+    "NPCs/Matsu Mioko.md",
+    "NPCs/Kasuga Himori.md",
+    "NPCs/Doji Nobinaru.md",
+    "1 - Summaries/3 - Sessions.md",
+>>>>>>> a602751b9cf4325507958d2d3bf4b9dcd0d76267
     "1 - Summaries",
+    "Untitled",
     "Affiliations",
-    "Animals"
+    "Locations/Castles",
+    "Locations/Family Lands",
+    "Locations/Provinces",
+    "Kami",
+    "rokugan.jpg",
+    "Tattoos"
   ]
 }

@@ -1,4 +1,4 @@
 ---
-SuperProvince: "[[Togashi Provinces]]"
+SuperProvince: 
 ---
 ## Summary
