@@ -12,8 +12,7 @@
         "videos": true,
         "pdfs": true,
         "otherTypes": false
-      },
-      "relay": "44032229-67e7-4401-b48f-53f18491de39"
+      }
     },
     {
       "path": "Clans",
@@ -24,8 +23,7 @@
         "videos": true,
         "pdfs": true,
         "otherTypes": false
-      },
-      "relay": "44032229-67e7-4401-b48f-53f18491de39"
+      }
     },
     {
       "path": "Animals",
@@ -36,8 +34,7 @@
         "videos": true,
         "pdfs": true,
         "otherTypes": false
-      },
-      "relay": "44032229-67e7-4401-b48f-53f18491de39"
+      }
     },
     {
       "path": "Elements",
@@ -48,8 +45,7 @@
         "videos": true,
         "pdfs": true,
         "otherTypes": false
-      },
-      "relay": "44032229-67e7-4401-b48f-53f18491de39"
+      }
     },
     {
       "path": "Families",
@@ -60,8 +56,7 @@
         "videos": true,
         "pdfs": true,
         "otherTypes": false
-      },
-      "relay": "44032229-67e7-4401-b48f-53f18491de39"
+      }
     },
     {
       "path": "Kami",
@@ -72,8 +67,7 @@
         "videos": true,
         "pdfs": true,
         "otherTypes": false
-      },
-      "relay": "44032229-67e7-4401-b48f-53f18491de39"
+      }
     },
     {
       "path": "Locations",
@@ -84,8 +78,7 @@
         "videos": true,
         "pdfs": true,
         "otherTypes": false
-      },
-      "relay": "44032229-67e7-4401-b48f-53f18491de39"
+      }
     },
     {
       "path": "Monsters",
@@ -96,8 +89,7 @@
         "videos": true,
         "pdfs": true,
         "otherTypes": false
-      },
-      "relay": "44032229-67e7-4401-b48f-53f18491de39"
+      }
     },
     {
       "path": "NPCs",
@@ -108,8 +100,7 @@
         "videos": true,
         "pdfs": true,
         "otherTypes": false
-      },
-      "relay": "44032229-67e7-4401-b48f-53f18491de39"
+      }
     },
     {
       "path": "Religion",
@@ -120,8 +111,7 @@
         "videos": true,
         "pdfs": true,
         "otherTypes": false
-      },
-      "relay": "44032229-67e7-4401-b48f-53f18491de39"
+      }
     },
     {
       "path": "Schools",
@@ -132,8 +122,7 @@
         "videos": true,
         "pdfs": true,
         "otherTypes": false
-      },
-      "relay": "44032229-67e7-4401-b48f-53f18491de39"
+      }
     },
     {
       "path": "Sessions",
@@ -144,8 +133,7 @@
         "videos": true,
         "pdfs": true,
         "otherTypes": false
-      },
-      "relay": "44032229-67e7-4401-b48f-53f18491de39"
+      }
     },
     {
       "path": "Tattoos",
@@ -156,8 +144,7 @@
         "videos": true,
         "pdfs": true,
         "otherTypes": false
-      },
-      "relay": "44032229-67e7-4401-b48f-53f18491de39"
+      }
     },
     {
       "path": "The Party",
@@ -168,8 +155,7 @@
         "videos": true,
         "pdfs": true,
         "otherTypes": false
-      },
-      "relay": "44032229-67e7-4401-b48f-53f18491de39"
+      }
     },
     {
       "path": "z_Templates",
@@ -180,8 +166,7 @@
         "videos": true,
         "pdfs": true,
         "otherTypes": false
-      },
-      "relay": "44032229-67e7-4401-b48f-53f18491de39"
+      }
     },
     {
       "path": "1 - Summaries",
@@ -192,8 +177,7 @@
         "videos": true,
         "pdfs": true,
         "otherTypes": false
-      },
-      "relay": "44032229-67e7-4401-b48f-53f18491de39"
+      }
     }
   ],
   "endpoints": {},

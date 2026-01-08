@@ -15,17 +15,13 @@ previous:  "[[Session <% previous %>]]"
 summary:
 ---
 ## Characters
-- **Name**
 
 ## Overview
-Brief session overview.
 
 ## Key Learnings
-- Description of any important information that the party learned.
 
 ## Who Did We Meet?
-**Name.** Description
 
-## Items Oat Worked
-- Small description.Worked
-- Small description.
+## Items of Interest
+
+## What Worked

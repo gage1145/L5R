@@ -4,29 +4,21 @@
     "type": "split",
     "children": [
       {
-<<<<<<< HEAD
         "id": "c880773602fbcabf",
         "type": "tabs",
         "children": [
           {
             "id": "f88e41b9b054905a",
-=======
-        "id": "5dfd55cc0bae908f",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "6fd2c2bbfac20beb",
->>>>>>> a602751b9cf4325507958d2d3bf4b9dcd0d76267
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "Sessions/Session 4.md",
-                "mode": "preview",
-                "source": true
+                "aFile": "Sessions/Session 1.md",
+                "bFile": "Sessions/Session 1.md",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "Session 4"
+              "icon": "diff",
+              "title": "Diff: Session 1  (Working Tree)"
             }
           },
           {
@@ -35,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tattoos/Scorpion Tattoo.md",
-                "mode": "source",
+                "file": "1 - Summaries/2 - NPCs.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Scorpion Tattoo"
+              "title": "2 - NPCs"
             }
           }
         ]
@@ -178,17 +170,26 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sessions/Session 4.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Session 4"
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "dc5d74846c10e504",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -206,80 +207,42 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-leaflet-plugin:Open Leaflet Map": false,
       "templater-obsidian:Templater": false,
-      "system3-relay:Relay": false
+      "system3-relay:Relay": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-<<<<<<< HEAD
-  "active": "e4696843b46d290b",
+  "active": "f88e41b9b054905a",
   "lastOpenFiles": [
-    "Tattoos/Scorpion Tattoo.md",
-    "Sessions/Session 4.md",
-    "The Party/Togashi Hanzo.md",
-    "1 - Summaries/1 - The Party.md",
-    "NPCs/Matsu Samano.md",
-    "Animals/Crane Lands Cave Bear.md",
-    "Monsters/Kapa.md",
+    "Sessions/Session 5.md",
     "1 - Summaries/3 - Sessions.md",
-    "Sessions/Session 3.md",
-    "NPCs/Hero.md",
-    "The Party/Usagi Haku.md",
-    "Locations/Wachimasu.md",
-    "Wachiujmasu.md",
-    "Locations/Cities/Yufuku na Heigen Toshi.md",
-    "NPCs/Daidoji Haruki.md",
-    "Tattoos/Dragon Tattoo.md",
-    "Locations/Cities/Mura Sabishii Toshi.md",
-    "Locations/Provinces/Toshibu Province.md",
-    "Locations/Provinces/Sabishii Province.md",
-    "NPCs/Daidoji Kentarō.md",
-    "Locations/Villages/Tochigi.md",
-    "Locations/Cities/Tochi.md",
-    "Sessions/Session 2.md",
-    "NPCs/Jurō.md",
-    "Locations/Family Lands/Daidoji Provinces.md",
-    "Locations/Villages",
-    "Locations/Cities",
-    "Sessions/Session 1.md",
-=======
-  "active": "6fd2c2bbfac20beb",
-  "lastOpenFiles": [
-    "NPCs/Jurō.md",
+    "Sessions/Session 4.md",
     "1 - Summaries/2 - NPCs.md",
-    "Locations/Cities/Tochi.md",
-    "Locations/Family Lands/Daidoji Provinces.md",
-    "Locations/Cities/Yufuku na Heigen Toshi.md",
-    "Locations/Cities/Mura Sabishii Toshi.md",
-    "z_Templates/Template - Affiliation.md",
-    "z_Templates/Template - Castle.md",
-    "z_Templates/Template - Clan.md",
+    "Monsters/Clane Lands Kappa.md",
+    "Animals/Crane Lands Cave Bear.md",
+    "z_Templates/Template - Session.md",
     "z_Templates/Template - Creature.md",
-    "z_Templates/Template - Family.md",
-    "z_Templates/Template - Monster.md",
     "z_Templates/Template - School.md",
     "z_Templates/Template - Province.md",
     "z_Templates/Template - NPC.md",
-    "z_Templates/Template - Individual.md",
+    "z_Templates/Template - Monster.md",
     "z_Templates/Template - Location.md",
-    "Locations/Villages/Tochi.md",
-    "Locations/Villages",
-    "Locations/Castles/Shiro Mirumoto.md",
-    "Locations/Castles/Ranshudin.md",
+    "z_Templates/Template - Individual.md",
+    "z_Templates/Template - Family.md",
+    "Hitomi Order.md",
+    "Sessions/Session 3.md",
+    "Sessions/Session 1.md",
     "Sessions/Session 2.md",
-    "2.md",
+    "Kitsuki Family.md",
+    "Doni Iobunaru.md",
+    "Affiliations/Kushi-no-umawari.md",
+    "Prosperous Plains City.md",
+    "Tattoos/Scorpion Tattoo.md",
+    "The Party/Togashi Hanzo.md",
+    "1 - Summaries/1 - The Party.md",
+    "Locations/Villages",
     "Locations/Cities",
-    "NPCs/Matsu Mioko.md",
-    "NPCs/Kasuga Himori.md",
-    "NPCs/Doji Nobinaru.md",
-    "1 - Summaries/3 - Sessions.md",
->>>>>>> a602751b9cf4325507958d2d3bf4b9dcd0d76267
     "1 - Summaries",
-    "Untitled",
     "Affiliations",
-    "Locations/Castles",
-    "Locations/Family Lands",
-    "Locations/Provinces",
-    "Kami",
-    "rokugan.jpg",
-    "Tattoos"
+    "Animals"
   ]
 }

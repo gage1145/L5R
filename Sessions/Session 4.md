@@ -2,7 +2,7 @@
 date: 2026-01-02
 session: 4
 previous: "[[Session 3]]"
-summary:
+summary: The party pursued the mysterious woman fleeing Tochigi, with Akodo Yakisoba stealing a horse to chase the trail toward Wachimasu, joined by Kuni Yoshiuki. Along the way, Yakisoba narrowly escaped a cave encounter with a massive bear, while Kuni brutally fought Wachimasu guards after their papers were destroyed. Back in Tochigi, the rest of the group coordinated with Daidoji Haruki, who warned them about his rivalry with Matsu Samano. When the party regrouped in Wachimasu, they found bandit bodies being burned and endured a hostile meeting with Samano, who vehemently denied any involvement in the stolen swords.
 ---
 ## Characters
 - **[[Doji Junji]]**
