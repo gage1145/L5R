@@ -15,6 +15,12 @@ previous:  "[[Session <% previous %>]]"
 summary:
 ---
 ## Characters
+- [[Doji Junji]]
+- [[Togashi Hanzo]]
+- [[Kuni Yoshiuki]]
+- [[Doji Gaoxing]]
+- [[Usagi Haku]]
+- [[Akodo Yakisoba]]
 
 ## Overview
 

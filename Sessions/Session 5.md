@@ -13,16 +13,40 @@ summary:
 - [[Akodo Yakisoba]]
 
 ## Overview
-
 ### Tracking the woman with long hair
-A man in the square informed the party that he saw a woman that matched our description heading north toward the bandit camp. Yoshiuki goes to visit Hanzo to make sure he's ok. Upon entering the inn, he notices another samurai wearing a silk mask. 
+A man named [[Kato]] in the square informed the party that he saw a woman that matched our description heading north toward the bandit camp. Yoshiuki goes to visit Hanzo to make sure he's ok. Upon entering the inn, he notices another samurai wearing a silk mask. It is difficult to discern what clan he belongs to.
+
+Gaoxing invites Kato to the inn. He wraps a koku in a cloth and tells the boy to go pay for any food they're about to consume. Gaoxing ingratiates himself toward the inn-keeps and asks about the beautiful long-haired woman that may have passed through. He learns that a woman named [[Seppun Kazumi]]. This woman is part of the royal family, and she was certainly wearing a pair of swords.
+
+We asked about the ronin in the corner. The merchants understand that he is heading toward unicorn lands.
 
 ## Key Learnings
 
 
 ## Who Did We Meet?
+- [[Kato]]
 
-
-## Items of Importance
-
-## What Worked?
+```
+............................................--------------------------------------------------------------------
+-----------------^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+-----------------^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^<<<<<<<^<<^^^^^^^^^^^^^^<<<<<<<<<<<<<<<<<<<<<<<<<
+----------^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^--.  .--^<</T/<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+--^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^<<<^.            .<<T(/<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^<<<<<<^.   ...     .-^<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<</////
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^<<<<<<<<<<<<<--^<-^<<<<     <<^<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<</////////
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^-^^^^^-- .-^^^^-. .  .--.    --  -/////<<<<<<<<<<<<<<<<<<<<<<<///////////////
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^<<<^^^-                       .-...-//T//////<<<<<<<<<///////////////////////
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^<^<<<<<<<<<^...                 ...    ..<///////////////////////////////////////
+^^^^^^^^^^^^^^^^^^^^^^^^^<<<<<<<<<<<<<<<<<<<</<<<<^--            .  -.-<.-//////////////////////////////////////
+^^^^^^^^^^^^^^<^^^<<<<<<<<<<<<<<<<<<<<<<<<<<////-.                  .-<^ .</////////////////////////////////////
+^^^^^^<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<////<.                     .-^/^-<////////////////////////////////////
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<///////-                    ^   -/-^/////<///////////////////////////////
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<//////////^      ...                /<//////<///////////////////////////////
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<</////////////<- ^-  .<//^        ..      <<^<////////////////////////////////////
+<<<<<<<<<<<<<<<<<///////////////////////////<^^/<.^//^.             --  T(/^^///////////////////////////////////
+<<<<////////////////////////////////////////////////.               /T  Tf(T<^/T////////////////////////////////
+////////////////////////////////////////////////////^.              ..  -ff(T/^<T///////////////////////////////
+///////////////////////////////////////////////////////^                 ^T</TT/</T/////////////////////////////
+/////////////////////////////////////////////////////TT<                  .<TTTTT<<TTTT/////////////////////////
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^.                   -<^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+```

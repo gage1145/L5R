@@ -6,5 +6,6 @@
   "cssTheme": "ITS Theme",
   "theme": "obsidian",
   "textFontFamily": "",
-  "interfaceFontFamily": ""
+  "interfaceFontFamily": "",
+  "monospaceFontFamily": "Cascadia Code"
 }

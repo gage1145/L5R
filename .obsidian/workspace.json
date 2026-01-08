@@ -11,14 +11,14 @@
             "id": "f88e41b9b054905a",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "Sessions/Session 1.md",
-                "bFile": "Sessions/Session 1.md",
-                "aRef": ""
+                "file": "Sessions/Session 5.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: Session 1  (Working Tree)"
+              "icon": "lucide-file",
+              "title": "Session 5"
             }
           },
           {
@@ -170,12 +170,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Sessions/Session 5.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Session 5"
             }
           },
           {
@@ -213,13 +214,18 @@
   },
   "active": "f88e41b9b054905a",
   "lastOpenFiles": [
+    "Locations/Cities/Yufuku na Heigen Toshi.md",
+    "Locations/Cities/Prosperous Plains City.md",
     "Sessions/Session 5.md",
+    "Doni Iobunaru.md",
+    "NPCs/Seppun Kazumi.md",
+    "z_Templates/Template - Session.md",
+    "NPCs/Kato.md",
     "1 - Summaries/3 - Sessions.md",
     "Sessions/Session 4.md",
     "1 - Summaries/2 - NPCs.md",
     "Monsters/Clane Lands Kappa.md",
     "Animals/Crane Lands Cave Bear.md",
-    "z_Templates/Template - Session.md",
     "z_Templates/Template - Creature.md",
     "z_Templates/Template - School.md",
     "z_Templates/Template - Province.md",
@@ -228,17 +234,12 @@
     "z_Templates/Template - Location.md",
     "z_Templates/Template - Individual.md",
     "z_Templates/Template - Family.md",
-    "Hitomi Order.md",
+    "Families/Hitomi Order.md",
     "Sessions/Session 3.md",
     "Sessions/Session 1.md",
     "Sessions/Session 2.md",
-    "Kitsuki Family.md",
-    "Doni Iobunaru.md",
+    "Families/Kitsuki Family.md",
     "Affiliations/Kushi-no-umawari.md",
-    "Prosperous Plains City.md",
-    "Tattoos/Scorpion Tattoo.md",
-    "The Party/Togashi Hanzo.md",
-    "1 - Summaries/1 - The Party.md",
     "Locations/Villages",
     "Locations/Cities",
     "1 - Summaries",
