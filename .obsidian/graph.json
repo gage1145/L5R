@@ -5,7 +5,7 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
       "query": "path: \"The Party\"",
@@ -34,6 +34,13 @@
         "a": 1,
         "rgb": 5422560
       }
+    },
+    {
+      "query": "path: Affiliations  ",
+      "color": {
+        "a": 1,
+        "rgb": 463631
+      }
     }
   ],
   "collapse-display": true,
@@ -47,5 +54,5 @@
   "linkStrength": 1,
   "linkDistance": 250,
   "scale": 0.35795051801799477,
-  "close": true
+  "close": false
 }

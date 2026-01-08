@@ -34,6 +34,20 @@
               "icon": "lucide-file",
               "title": "2 - NPCs"
             }
+          },
+          {
+            "id": "73baebb52cd220c4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NPCs/Ichiro Masakatsu.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Ichiro Masakatsu"
+            }
           }
         ]
       }
@@ -92,7 +106,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 239.5
   },
   "right": {
     "id": "6c14bc54af54f357",
@@ -214,16 +228,23 @@
   },
   "active": "f88e41b9b054905a",
   "lastOpenFiles": [
+    "NPCs/Koganshi Onotatsu.md",
+    "Sessions/Session 5.md",
+    "NPCs/Ichiro Masakatsu.md",
+    "1 - Summaries/2 - NPCs.md",
+    "Onnotangu.md",
+    "Sessions/Session 1.md",
+    "Gokenii.md",
+    "Families/Koganshi Family.md",
+    "Clans/Phoenix Clan.md",
     "Locations/Cities/Yufuku na Heigen Toshi.md",
     "Locations/Cities/Prosperous Plains City.md",
-    "Sessions/Session 5.md",
     "Doni Iobunaru.md",
     "NPCs/Seppun Kazumi.md",
     "z_Templates/Template - Session.md",
     "NPCs/Kato.md",
     "1 - Summaries/3 - Sessions.md",
     "Sessions/Session 4.md",
-    "1 - Summaries/2 - NPCs.md",
     "Monsters/Clane Lands Kappa.md",
     "Animals/Crane Lands Cave Bear.md",
     "z_Templates/Template - Creature.md",
@@ -233,13 +254,6 @@
     "z_Templates/Template - Monster.md",
     "z_Templates/Template - Location.md",
     "z_Templates/Template - Individual.md",
-    "z_Templates/Template - Family.md",
-    "Families/Hitomi Order.md",
-    "Sessions/Session 3.md",
-    "Sessions/Session 1.md",
-    "Sessions/Session 2.md",
-    "Families/Kitsuki Family.md",
-    "Affiliations/Kushi-no-umawari.md",
     "Locations/Villages",
     "Locations/Cities",
     "1 - Summaries",
