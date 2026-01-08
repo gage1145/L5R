@@ -9,7 +9,7 @@ summary: "The party was inducted into the **Kyōtsū no michi**, a conspiracy to
 - **[[Akodo Yakisoba]]**
 - **[[Doji Gaoxing]]**
 - **[[Doji Junji]]**
-- **[[Kuni Yoshiuki]]**
+- **[[Kuni Yoshiyuki]]**
 - **[[Usagi Haku]]**
 
 ## Overview

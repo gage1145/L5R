@@ -8,7 +8,7 @@ summary: After Doji Junji won his duel, the party traveled to Tochigi and arrive
 - [[Akodo Yakisoba]]
 - [[Doji Gaoxing]]
 - [[Doji Junji]]
-- [[Kuni Yoshiuki]]
+- [[Kuni Yoshiyuki]]
 - [[Togashi Hanzo]]
 - [[Usagi Haku]]
 
@@ -40,7 +40,7 @@ The Lion knocked out the Dragon and the Hare immediately yielded. The Lion is no
 
 During the night, we are awoken by a scream. Akodo immediately jumps out the window for some fucking reason. He ran in to the room where the scream originated. The group sees [[Daidoji Haruki]] lying on the ground openly sobbing. In front of him is the Daijo stand, broken in half, and the swords are gone. Akodo asks haruki if he knows who would have done this.
 
-***"Who's screaming like a little girl? - [[Kuni Yoshiuki]]***
+***"Who's screaming like a little girl? - [[Kuni Yoshiyuki]]***
 
 He says, "it can only be [[Matsu Samano]]." He  is the lord of [[Wachimasu]].
 

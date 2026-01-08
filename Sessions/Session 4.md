@@ -7,7 +7,7 @@ summary: The party pursued the mysterious woman fleeing Tochigi, with Akodo Yaki
 ## Characters
 - **[[Doji Junji]]**
 - **[[Togashi Hanzo]]**
-- **[[Kuni Yoshiuki]]**
+- **[[Kuni Yoshiyuki]]**
 - **[[Akodo Yakisoba]]**
 
 ## Overview

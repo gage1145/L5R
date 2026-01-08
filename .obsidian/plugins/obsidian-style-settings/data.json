@@ -35,5 +35,5 @@
   "ITS@@h4-size": 28,
   "ITS@@h5-size": 24,
   "ITS@@h6-size": 20,
-  "ITS@@font-monospace": "'Courier', 'Fira Code Medium', 'Source Code Pro', monospace"
+  "ITS@@font-monospace": "'Courier bold', 'Fira Code Medium', 'Source Code Pro', monospace"
 }

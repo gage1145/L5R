@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - Summaries/2 - NPCs.md",
+                "file": "NPCs/Seppun Kazumi.md",
                 "mode": "preview",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "2 - NPCs"
+              "title": "Seppun Kazumi"
             }
           },
           {
@@ -184,13 +184,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sessions/Session 5.md",
+                "file": "The Fire Tigers.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Session 5"
+              "title": "Outline of The Fire Tigers"
             }
           },
           {
@@ -222,16 +222,20 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-leaflet-plugin:Open Leaflet Map": false,
       "templater-obsidian:Templater": false,
-      "system3-relay:Relay": false,
       "obsidian-git:Open Git source control": false
     }
   },
   "active": "f88e41b9b054905a",
   "lastOpenFiles": [
-    "NPCs/Koganshi Onotatsu.md",
-    "Sessions/Session 5.md",
-    "NPCs/Ichiro Masakatsu.md",
+    "The Fire Tigers.md",
+    "Doni Iobunaru.md",
+    "NPCs/Seppun Kazumi.md",
     "1 - Summaries/2 - NPCs.md",
+    "NPCs/Doji Nobinaru.md",
+    "Sessions/Session 5.md",
+    "NPCs/Koganshi Onotatsu.md",
+    "NPCs/Ichiro Masakatsu.md",
+    "The Party/Kuni Yoshiyuki.md",
     "Onnotangu.md",
     "Sessions/Session 1.md",
     "Gokenii.md",
@@ -239,8 +243,6 @@
     "Clans/Phoenix Clan.md",
     "Locations/Cities/Yufuku na Heigen Toshi.md",
     "Locations/Cities/Prosperous Plains City.md",
-    "Doni Iobunaru.md",
-    "NPCs/Seppun Kazumi.md",
     "z_Templates/Template - Session.md",
     "NPCs/Kato.md",
     "1 - Summaries/3 - Sessions.md",
@@ -251,9 +253,6 @@
     "z_Templates/Template - School.md",
     "z_Templates/Template - Province.md",
     "z_Templates/Template - NPC.md",
-    "z_Templates/Template - Monster.md",
-    "z_Templates/Template - Location.md",
-    "z_Templates/Template - Individual.md",
     "Locations/Villages",
     "Locations/Cities",
     "1 - Summaries",

@@ -9,7 +9,7 @@ summary: The party traveled within Crane lands using papers from Daidoji Kentaro
 - **[[Akodo Yakisoba]]**
 - **[[Doji Gaoxing]]**
 - **[[Doji Junji]]**
-- **[[Kuni Yoshiuki]]**
+- **[[Kuni Yoshiyuki]]**
 - **[[Usagi Haku]]**
 
 ## Overview
