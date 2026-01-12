@@ -1,8 +1,7 @@
 ---
 AKA:
 Province:
-Affiliations: 
-  - "[[Emerald Empire]]"
+Affiliations:
   - "[[The Fire Tigers]]"
 tags:
   - NPC

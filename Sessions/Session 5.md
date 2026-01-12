@@ -14,7 +14,7 @@ summary:
 
 ## Overview
 ### Tracking the woman with long hair
-A man named [[Kato]] in the square informed the party that he saw a woman that matched our description heading north toward the bandit camp. Yoshiyuki goes to visit Hanzo to make sure he's ok. Upon entering the inn, he notices another samurai wearing a silk mask. It is difficult to discern what clan he belongs to.
+A man named [[Kaito]] in the square informed the party that he saw a woman that matched our description heading north toward the bandit camp. Yoshiyuki goes to visit Hanzo to make sure he's ok. Upon entering the inn, he notices another samurai wearing a silk mask. It is difficult to discern what clan he belongs to.
 
 Gaoxing invites Kato to the inn. He wraps a koku in a cloth and tells the boy to go pay for any food they're about to consume. Gaoxing ingratiates himself toward the inn-keeps and asks about the beautiful long-haired woman that may have passed through. He learns that a woman named [[Seppun Kazumi]]. This woman is part of the royal family, and she was certainly wearing a pair of swords.
 
@@ -22,15 +22,20 @@ We asked about the ronin in the corner. The merchants understand that he is head
 
 Going back to Kato, he mentions that the bandits are named [[The Fire Tigers]], and they have been an issue since he was a baby. They have a fort in the mountains to the north.
 
+### Hanzo speaks with the ronin
+After a night's rest, Hanzo approached Onotatsu. He asked if the ronin would be willing to guide the group through Unicorn lands once we were done with the quest in [[Wachimasu]].
+
+### The ambush...
+On the road to the bandit fort, the rest of the party were ambushed.
+
 ## Key Learnings
 
 
 ## Who Did We Meet?
-- [[Kato]]
+- [[Kaito]]
 - [[Koganshi Onotatsu]]
 
 ```
-                                                                                              ^^^^^^^^^^^^^^^^^^
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^//////////////////////
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^////^^^^^^^^^^^^^^^^^^^^^^//////////////////////
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^       ^^^///^^////^^^^^^^^////////////////////////////

@@ -1,11 +1,11 @@
 ---
-AKA: 
-Province: 
-Affiliations: 
+AKA:
+Province:
+Affiliations:
 tags:
   - NPC
-sentiment: Ally
-Clan: 
-Family: 
+sentiment:
+Clan:
+Family:
 ---
 ## Overview 
