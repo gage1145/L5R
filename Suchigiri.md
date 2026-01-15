@@ -1,0 +1,1 @@
+A semi-legal method of dueling by going to a crossroads and challenging passers-by.

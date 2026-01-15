@@ -2,7 +2,7 @@
 date: 2026-01-07
 session: 5
 previous: "[[Session 4]]"
-summary:
+summary: The party gathered information in Wachimasu, learning from a local named Kaito that a long-haired woman had headed north toward a bandit fort. At the inn, Gaoxing discovered the woman was Seppun Kazumi, a member of the imperial family traveling with swords, and the group made contact with the masked ronin Koganshi Onotatsu, who was bound for Unicorn lands. The bandits were identified as The Fire Tigers, long-standing raiders operating from a mountain stronghold. After resting, Hanzo quietly negotiated future guidance from Onotatsu before the party was ambushed en route to the bandit fort.
 ---
 ## Characters
 - [[Doji Junji]]
