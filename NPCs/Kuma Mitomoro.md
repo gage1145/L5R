@@ -7,7 +7,7 @@ tags:
 sentiment: Enemy
 Clan: "[[Bear Clan]]"
 Family:
-status:
+status: dead
 ---
 ## Overview 
 A ronin in Scorpion lands who challenged [[Kuni Yoshiyuki]] to a duel to the death.

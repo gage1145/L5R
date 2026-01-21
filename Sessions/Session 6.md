@@ -39,7 +39,7 @@ We arrived at lake [[Mizu-umi no Fuko]] leading into Scorpion lands on the day o
 The man is likely wanting to partake in [[Suchigiri]]. He wants to challenge one of us with a new technique he has learned. Yoshiyuki approaches the man, anticipating that he wants to duel.
 
 ###### "Who are you?"
-Asks the ronin. His name is [[Kuma Nitomoro]]. He challenged Yoshiyuki to a duel to the death. Our crab was immediately horribly injured. Seeing this, Usagi threw his tanto at the ronin. Yakisoba swung his katana at the ronin, and cut him in half. Seeing this major breach of etiquette, Hanzo tackled Yakisoba to the ground.
+Asks the ronin. His name is [[Kuma Mitomoro]]. He challenged Yoshiyuki to a duel to the death. Our crab was immediately horribly injured. Seeing this, Usagi threw his tanto at the ronin. Yakisoba swung his katana at the ronin, and cut him in half. Seeing this major breach of etiquette, Hanzo tackled Yakisoba to the ground.
 
 
 ```
