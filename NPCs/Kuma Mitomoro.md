@@ -1,5 +1,5 @@
 ---
-AKA:
+AKA: Bloody Mitomoro
 Province:
 Affiliations:
 tags:

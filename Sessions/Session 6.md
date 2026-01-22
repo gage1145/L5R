@@ -36,7 +36,7 @@ We return to the estate of [[Daidoji Haruki]] and explain to him that his swords
 We arrived at lake [[Mizu-umi no Fuko]] leading into Scorpion lands on the day of the [[Feast of Lord Bayushi]]. Two days later we made port in lake [[Aka Mizu-umi]] in the [[Keep of the Fortunate Husband]]. They inspected our papers and had absolutely zero questions. We quickly move through the castle and out toward the capital city. We approach a crossroads where a ronin is standing.
 
 ### The Ronin
-The man is likely wanting to partake in [[Suchigiri]]. He wants to challenge one of us with a new technique he has learned. Yoshiyuki approaches the man, anticipating that he wants to duel.
+The man is likely wanting to partake in [[Tsuchigiri]]. He wants to challenge one of us with a new technique he has learned. Yoshiyuki approaches the man, anticipating that he wants to duel.
 
 ###### "Who are you?"
 Asks the ronin. His name is [[Kuma Mitomoro]]. He challenged Yoshiyuki to a duel to the death. Our crab was immediately horribly injured. Seeing this, Usagi threw his tanto at the ronin. Yakisoba swung his katana at the ronin, and cut him in half. Seeing this major breach of etiquette, Hanzo tackled Yakisoba to the ground.

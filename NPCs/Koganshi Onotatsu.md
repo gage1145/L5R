@@ -4,7 +4,7 @@ Province:
 Affiliations:
 tags:
   - NPC
-sentiment: Neutral
+sentiment: Ally
 Clan: "[[Phoenix Clan]]"
 Family: "[[Koganshi Family]]"
 ---
