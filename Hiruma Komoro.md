@@ -7,7 +7,7 @@ tags:
 sentiment:
 Clan:
 Family:
-status: alive
+status: dead
 sex: male
 ---
 ## Overview 

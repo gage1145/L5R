@@ -11,3 +11,4 @@ status: alive
 sex: male
 ---
 ## Overview 
+The Scorpion clan champion, the head of the Scorpion clan.
