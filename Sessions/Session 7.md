@@ -23,7 +23,7 @@ In a village on the way, the townspeople said that he had meandered into this re
 Before we left, Junji challenged the lord to a duel of first blood. My boy is being hellllllla disrespectful right now! The samurai handedly defeated our petulant crane. Given the result of this, Junji decided he didn't want to go to Toshi Aitate anymore.
 
 ### Back on the Road
-Late in the afternoon, we noticed a small party of the side of the road, huddled together. It's 2 lions, a crane, and a crab. They're fucking beat to shit. The crane steps out and says
+Late in the afternoon, we noticed a small party of the side of the road, huddled together. It's 2 lions, a crane, and a crab. They're fucking beat to shit. The crane steps out and says,
 
 ###### "Please, we are in need of aid."
 
