@@ -68,10 +68,14 @@
             "id": "1580533928ead7fe",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Sessions/Session 9.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Session 9"
             }
           },
           {
@@ -89,7 +93,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -265,14 +269,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "23d295a4653bef33",
+  "active": "1580533928ead7fe",
   "lastOpenFiles": [
-    "Locations/Rokugan.md",
     "Sessions/Session 8.md",
+    "Sessions/Session 9.md",
+    "Locations/Rokugan.md",
     "Tattoos/Scorpion Tattoo.md",
     "The Party/Togashi Hanzo.md",
     "Tattoos/Dragon Tattoo.md",
-    "Izumi.md",
+    "Monsters/Izumi.md",
     "NPCs/Hiruma Katahide.md",
     "Sessions/Session 7.md",
     "Locations/Castles/Kyuden Bayushi.md",
@@ -292,7 +297,6 @@
     "NPCs/Matsu Mioko.md",
     "Locations/Provinces/Chuuou Province.md",
     "Sessions/Session 6.md",
-    "Locations/Toshi Aitate.md",
     "Concepts",
     "Events",
     "Locations/Villages",
