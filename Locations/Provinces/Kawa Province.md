@@ -1,0 +1,4 @@
+---
+SuperProvince: "[[Shosuro Provinces]]"
+---
+## Summary

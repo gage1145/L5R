@@ -38,8 +38,8 @@ Ogoro picks up the peasant's head and grabs the leash, and returns to the group.
 It is clear that the guards are setting up a scene.
 
 ### Outside Kyuden Bayushi
-The group discusses whether Hanzo is still alive or will he be evicted under similar pretense.
+The group discusses whether Hanzo is still alive or will he be evicted under similar pretense. The man eludes to agitators in the land, and eludes to our fake death. Essentially, we were both here officially yet we also died here. The papers we got say we are meeting [[Ida Chokokane]] in Unicorn lands and then travelling to meet kin of Togashi Hanzo.
 
-The man eludes to agitators in the land, and eludes to our fake death. Essentially, we were both here officially yet we also died here.
+### Welcome to [[Ginesutra]]
+We head toward the river to the west and come across the village of Ginesutra. We note that this village is lacking any bushi. Instead, there are a lot of sohei (warrior monks). The monks says that there is a sickness going around and asks if we would be willing to help move some rice in exchange for a meal and a night of sleep. We accept for a small bit of honor. Overnight, Junji and Hanzo catch the flu that is going around. Hanzo asks if we can practice our katas and spar. He says we can go to [[Shinden Osano-wo]]. He tells us of [[Osano-wo]], an ancient crab fortune for which their dojo is named. 
 
-The papers we got say we are meeting [[Ida Chokokane]] in Unicorn lands and then travelling to meet kin of Togashi Hanzo.

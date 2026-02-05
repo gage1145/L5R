@@ -1,14 +1,14 @@
 ---
 AKA:
 Province: "[[Nezuban Province]]"
-Affiliations: "[[Kyōtsū no michi]]"
+Affiliations:
 tags:
   - NPC
 sentiment: Neutral
-Clan: "[[Crane Clan]]"
-Family: "[[Daidoji Family]]"
-sex: male
+Clan: "[[Scorpion Clan]]"
+Family:
+sex: female
 status: dead
 ---
 ## Overview 
-A Crane samurai we met in Scorpion lands. She was ambushed by bandits and we helped exact revenge.
+A Crane samurai we met in Scorpion lands. She was ambushed by bandits and we helped exact revenge. Turns out, this was a Scorpion clan samurai and we're unsure what his goal was with ambushing us.
