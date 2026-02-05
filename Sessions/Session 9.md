@@ -43,3 +43,8 @@ The group discusses whether Hanzo is still alive or will he be evicted under sim
 ### Welcome to [[Ginesutra]]
 We head toward the river to the west and come across the village of Ginesutra. We note that this village is lacking any bushi. Instead, there are a lot of sohei (warrior monks). The monks says that there is a sickness going around and asks if we would be willing to help move some rice in exchange for a meal and a night of sleep. We accept for a small bit of honor. Overnight, Junji and Hanzo catch the flu that is going around. Hanzo asks if we can practice our katas and spar. He says we can go to [[Shinden Osano-wo]]. He tells us of [[Osano-wo]], an ancient crab fortune for which their dojo is named. 
 
+### Traveling North
+We decided against going to the dojo, and instead headed north toward the mission. Early in the morning, the 3rd watch here some ruckus that sounds like animal sounds. Junji recognizes that one is a battle cry by a samurai. Haku starts running toward the sound. Hanzo also wakes to the sound. Haku tries sneaking up, but trips on a body wearing Hare clan armor. How ironic. Haku notices they are fighting a large looming figure that we can't quite make out. 
+
+Haku calls out to the samurai and asks if they are also Usagi. He yells back that he is [[Usagi Ozaki]]. The monster is wielding a large sword bearing the Hare clan crest. It is an [[Ogre]].
+

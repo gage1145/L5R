@@ -9,7 +9,7 @@ Clan: "[[Phoenix Clan]]"
 Family: "[[Koganshi Family]]"
 ---
 ## Overview 
-A ronin we met in [[Wachimasu]] who was travelling to Unicorn lands. His lower face is completely shredded - as if someone had taken razors to his face.
+A ronin we met in [[Wachimasu]] who was travelling to Unicorn lands. His lower face is completely shredded - as if someone had taken razors to his face. He was hired by [[Togashi Hanzo]] to lead the group through Unicorn lands and into Badger lands.
 ```
 jjjjjjj999999999999KKKKKKKK$KK$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$KKKKKKKKKKKK999999999999jjjjjjj
 jjjjj9999999999999KKKKKKKK$$K$$$$$$$$$$$$$$$$$$MMMMMMMMMMMMMMM$$$$$$$$$$$$$$$$$KKKKKKKKKKKK99999999999jjjjjjj
