@@ -28,3 +28,4 @@ It quickly becomes apparent that these guards are not leading the group to the c
 Ogoro picks up the peasant's head and grabs the leash, and returns to the group. Yakisoba had managed to sneak away, and he was upset about that. He kind of just brushed it off though. Ogoro challenged the group to a duel under the guise of comparing techniques. It becomes clear that this is to stage a murder. Two of the guards cut each other down? WTF is happening??? He tells us:
 
 ###### "run."
+It is clear that the guards are setting up a scene.
