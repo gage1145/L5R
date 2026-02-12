@@ -11,21 +11,21 @@
       "query": "path: \"The Party\"",
       "color": {
         "a": 1,
-        "rgb": 14701138
+        "rgb": 16711680
       }
     },
     {
       "query": "path: NPCs  ",
       "color": {
         "a": 1,
-        "rgb": 5431439
+        "rgb": 65390
       }
     },
     {
       "query": "path: Locations  ",
       "color": {
         "a": 1,
-        "rgb": 5422560
+        "rgb": 49151
       }
     },
     {
@@ -39,14 +39,14 @@
       "query": "path: Clans",
       "color": {
         "a": 1,
-        "rgb": 15917084
+        "rgb": 16771584
       }
     },
     {
       "query": "path: Families  ",
       "color": {
         "a": 1,
-        "rgb": 5419488
+        "rgb": 43775
       }
     }
   ],
@@ -60,6 +60,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.18996637540596645,
-  "close": true
+  "scale": 0.1631708268347557,
+  "close": false
 }

@@ -27,7 +27,3 @@ summary:
 ## Key Learnings
 
 ## Who Did We Meet?
-
-## Items of Interest
-
-## What Worked
