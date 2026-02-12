@@ -39,6 +39,11 @@ Hanzo calls out to the nearest shadow, but no response. Yakisoba throws a grappl
 
 As Yakisoba and Hanzo are running back, the group is already in melee. After a couple rounds, Onotatsu swings true, and cleaves the hag in two. Hanzo incinerated the hag's body with fire breath.
 
+### The Edge of Unicorn Lands
+We finish the last day of our journey in the rogue lands and arrive at [[Seiketsu Pass]]. Walls have been built up along the sides with tall pagoda towers. We entered and realized that this is more laughter than we have ever heard in our lives. As many as are wearing katan are wearing curved swords. It is a bit uncanny valley.
+
+**Hanzo has no void for next session.**
+
 ## Key Learnings
 
 ## Who Did We Meet?
