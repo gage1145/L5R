@@ -35,6 +35,4 @@ Goaxing notices that something is wrong with these monks. And no matter how hard
 
 Gaoxing brings up the plot to the group, and we all decide the monks must die. We try investigating their behavior, but don't notice anything. Haku brings up that there seem to be much less servants than there were originally.
 
-## Key Learnings
-
-## Who Did We Meet?
+Hanzo attacked one of the monks while he was isolated and the monk knocked his ass out.
