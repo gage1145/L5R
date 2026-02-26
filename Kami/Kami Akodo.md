@@ -1,2 +1,2 @@
 ## Summary
-Kami of Lion Clan.
+Kami of [[Lion Clan]].

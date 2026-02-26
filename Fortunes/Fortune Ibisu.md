@@ -1,0 +1,1 @@
+The fortune of honest work.
