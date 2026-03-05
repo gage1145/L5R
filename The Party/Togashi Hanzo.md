@@ -65,4 +65,10 @@ Affiliations: "[[Kyōtsū no michi]]"
 >> | City | `=this.City` |
 >> | School| `=this.School` |
 >>
+## Grappling
+A character who has control of a grapple may do one of the following things on his Turn:
 
+- **Hit:** As a Complex Action, the character may inflict normal unarmed damage on any one other participant in the grapple. This damage cannot benefit from Raises, as there is no attack roll being made. Free Raises can still be applied, however.
+- **Throw:** As a Complex Action, the character may throw one opponent, causing them to become prone anywhere within five feet of the character performing the throw. This removes the thrown character from the grapple.
+- **Break:** As a Simple Action, the character may immediately remove himself from the grapple.
+- **Pass:** As a Free Action, the character may do nothing, choosing to maintain the grapple and retain control.
