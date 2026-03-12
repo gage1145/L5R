@@ -13,7 +13,7 @@ summary:
 - [[Akodo Yakisoba]]
 
 ## Overview
-### Speakg with [[Iuchi Gozaiman]]
+### Speaking with [[Iuchi Gozaiman]]
 Gaoxing approaches the lord and broaches the topic of the illness spreading amongst the villagers. He says Gaoxing should speak to the butler, but he doesn't know the names of any of his servants. Gaoxing suspects the monks may be involved in the sickness.
 
 ### Quarantining Akodo
