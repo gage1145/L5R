@@ -3,7 +3,7 @@ Name: Doji Junji
 Gender: Male
 Race: Human
 Class: Samurai
-Condition: Alive
+Condition: Dead
 Role: PC
 Age: Adult
 School: "[[Kakida Bushi]]"
