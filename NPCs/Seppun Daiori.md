@@ -4,7 +4,7 @@ Province:
 Affiliations: "[[Emerald Empire]]"
 tags:
   - NPC
-sentiment:
+sentiment: Neutral
 Clan:
 Family: "[[Seppun Family]]"
 ---

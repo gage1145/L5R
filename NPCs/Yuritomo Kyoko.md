@@ -5,10 +5,10 @@ Affiliations:
 tags:
   - NPC
 sentiment:
-Clan:
+Clan: "[[Mantis Clan]]"
 Family:
 status: alive
-sex: male
+sex: female
 ---
 ## Overview 
 A samurai we met near the [[Path of Woe]]. She was a bodyguard for [[Hikaru]].

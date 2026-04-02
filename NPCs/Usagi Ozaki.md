@@ -4,7 +4,7 @@ Province:
 Affiliations:
 tags:
   - NPC
-sentiment:
+sentiment: Neutral
 Clan: "[[Hare Clan]]"
 Family: "[[Usagi Family]]"
 status: alive

@@ -20,3 +20,11 @@ file.link AS Name,  AKA, Affiliations, Province, Family, Clan
 FROM #NPC 
 WHERE sentiment = "Neutral"
 ```
+
+## No Sentiment
+```dataview
+TABLE WITHOUT ID
+file.link AS Name,  AKA, Affiliations, Province, Family, Clan 
+FROM #NPC 
+WHERE sentiment = null
+```
