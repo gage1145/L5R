@@ -5,10 +5,10 @@ Affiliations:
 tags:
   - NPC
 sentiment:
-Clan:
-Family:
-status: alive
+Clan: "[[Badger Clan]]"
+Family: "[[Ichiro Family]]"
+status: dead
 sex: male
 ---
 ## Overview 
-The Badger champion.
+The Badger daimyo. Killed himself after taking the blame for the murder of [[Ichiro Shingen]]. He was ordered to kill himself by [[Moto Kuranosuke]] and [[Ichiro Masakatsu]].

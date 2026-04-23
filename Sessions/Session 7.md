@@ -41,7 +41,7 @@ We affirm that we will follow them to the shrine to exact revenge. Whoops! Turns
 
 Hanzo incinerated the fucker.
 
-We found new travel papers with our names on one of the bodies to meet [[Ida Chokokane]] signed by [[Bayushi Masako]].
+We found new travel papers with our names on one of the bodies to meet [[Ide Chokekami]] signed by [[Bayushi Masako]].
 
 ## Who Did We Meet?
 

@@ -6,7 +6,7 @@ tags:
   - NPC
 sentiment: Ally
 Clan: "[[Unicorn Clan]]"
-Family:
+Family: "[[Iuchi Family]]"
 status: alive
 sex: male
 ---

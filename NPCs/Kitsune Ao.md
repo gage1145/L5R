@@ -5,10 +5,10 @@ Affiliations:
 tags:
   - NPC
 sentiment:
-Clan: "[[Unicorn Clan]]"
-Family: "[[Shinjo Family]]"
+Clan: "[[Scorpion Clan]]"
+Family:
 status: alive
 sex: male
 ---
 ## Overview 
-The Unicorn daimyo.
+A bitch ass scorpion that tried to ambush us in scorpion lands.

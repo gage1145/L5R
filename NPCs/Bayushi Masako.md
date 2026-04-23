@@ -4,9 +4,9 @@ Province:
 Affiliations:
 tags:
   - NPC
-sentiment:
-Clan:
-Family:
+sentiment: Neutral
+Clan: "[[Scorpion Clan]]"
+Family: "[[Bayushi Family]]"
 status: alive
 sex: male
 ---

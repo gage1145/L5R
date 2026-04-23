@@ -1,5 +1,5 @@
 ---
-Clan:
+Clan: "[[Badger Clan]]"
 Province:
 Family:
 ---

@@ -4,10 +4,10 @@ Province:
 Affiliations:
 tags:
   - NPC
-sentiment:
+sentiment: Ally
 Clan: "[[Lion Clan]]"
-Family:
-status: alive
+Family: "[[Ikoma Family]]"
+status: dead
 sex: male
 ---
 ## Overview 

@@ -4,8 +4,8 @@
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
-  "showOrphans": false,
-  "collapse-color-groups": false,
+  "showOrphans": true,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
       "query": "path: \"The Party\"",
@@ -50,16 +50,16 @@
       }
     }
   ],
-  "collapse-display": false,
+  "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1.68229166666667,
   "lineSizeMultiplier": 1.37604166666667,
-  "collapse-forces": true,
-  "centerStrength": 0.223958333333333,
-  "repelStrength": 10,
-  "linkStrength": 1,
-  "linkDistance": 250,
-  "scale": 0.1435309993125878,
+  "collapse-forces": false,
+  "centerStrength": 0.317708333333333,
+  "repelStrength": 11.7708333333333,
+  "linkStrength": 0.90625,
+  "linkDistance": 118,
+  "scale": 0.13013386271125574,
   "close": true
 }

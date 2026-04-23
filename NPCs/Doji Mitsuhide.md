@@ -10,4 +10,4 @@ Clan: "[[Crane Clan]]"
 ---
 ## Overview
 
-Member of the Gokenishi
+Member of the [[Gokenishi]].

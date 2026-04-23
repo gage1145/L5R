@@ -4,7 +4,7 @@ Province:
 Affiliations:
 tags:
   - NPC
-sentiment:
+sentiment: Neutral
 Clan:
 Family:
 status: alive

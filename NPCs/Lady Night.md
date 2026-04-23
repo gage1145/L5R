@@ -7,4 +7,4 @@ tags:
 sentiment: Enemy
 ---
 
-Member of the Gokunishi.
+Member of the [[Gokenishi]].

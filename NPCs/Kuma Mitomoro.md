@@ -6,7 +6,7 @@ tags:
   - NPC
 sentiment: Enemy
 Clan: "[[Bear Clan]]"
-Family:
+Family: "[[Kuni Family]]"
 status: dead
 ---
 ## Overview 

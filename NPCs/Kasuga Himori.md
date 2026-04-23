@@ -6,7 +6,7 @@ tags:
   - NPC
 sentiment: Neutral
 Clan: "[[Tortoise Clan]]"
-Family:
+Family: "[[Kasuga Family]]"
 class: Samurai
 ---
 ## Overview 

@@ -6,6 +6,7 @@ Clan: "[[Dragon Clan]]"
 tags:
   - NPC
 sentiment: Enemy
+Family: "[[Kitsuki Family]]"
 ---
 
-A member of the Gokunishi.
+A member of the [[Gokenishi]].

@@ -5,8 +5,8 @@ Affiliations:
 tags:
   - NPC
 sentiment:
-Clan:
-Family:
+Clan: "[[Unicorn Clan]]"
+Family: "[[Iuchi Family]]"
 status: alive
 sex: male
 ---

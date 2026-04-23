@@ -1,14 +1,14 @@
 ---
 AKA:
 Province:
-Affiliations:
+Affiliations: "[[Kyōtsū no michi]]"
 tags:
   - NPC
 sentiment:
-Clan:
-Family:
+Clan: "[[Unicorn Clan]]"
+Family: "[[Ide Family]]"
 status: alive
-sex: male
+sex: female
 ---
 ## Overview 
 A Unicorn liason for the Emperor. She asked to meet the group formally after the Temsteen tournament finished.
