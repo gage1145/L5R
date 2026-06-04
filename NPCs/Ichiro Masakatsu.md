@@ -6,7 +6,7 @@ Clan: "[[Badger Clan]]"
 tags:
   - NPC
 sentiment: Enemy
-status: alive
+status: dead
 ---
 A member of the [[Gokenishi]]. A brutal man. Killed by [[1 - The Party]] in Badger lands. It may be that we killed his body double instead of him...
 

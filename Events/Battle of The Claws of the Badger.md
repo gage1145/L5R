@@ -1,0 +1,1 @@
+A battle that took place at [[The Claws of the Badger]], the fortress at the opening of the [[Path of Woe]] leading into Badger lands. We took part in this battle.
