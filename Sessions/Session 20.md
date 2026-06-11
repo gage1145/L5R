@@ -2,7 +2,7 @@
 date: 2026-04-22
 session: 19
 previous: "[[Session 18]]"
-summary:
+summary: "An approaching imperial army forced a hasty retreat to Shiro Ichiro, where the party interrupted a meeting between Ichiro Toshekatsu and the imperial envoy Moto Kuranosuke — Toshekatsu confessed to killing Ichiro Shingen and announced his intention to perform seppuku that night, taking the blame for the party's actions. Investigation revealed Shingen was merely a minor retainer of Masakatsu, raising doubts that the man they killed was the real target. The party departed without witnessing the ceremony, heading toward the Claws of the Badger."
 ---
 ## Characters
 - [[Doji Junji]]

@@ -2,7 +2,7 @@
 date: 2026-04-08
 session: 18
 previous: "[[Session 17]]"
-summary:
+summary: "The party killed Ichiro Masakatsu — or so they believed — and both Junji and Yakisoba challenged the daitengu Omoshi at the caldera temple to duels, losing decisively. On the road back to Shiro Ichiro, Omoshi appeared and shared a koan about a young retainer who killed a monk on the road to enlightenment."
 ---
 ## Characters
 - [[Doji Junji]]

@@ -2,7 +2,7 @@
 date: 2026-04-29
 session: 21
 previous: "[[Session 20]]"
-summary:
+summary: "The party defeated a group of ronins and was visited by kami — Hanzo was touched by a fire kami and must forfeit an entire honor rank. Reaching a Unicorn encampment, they met with Ide Tadamoto and then traveled to Shiroi Kishi Mura, where Ide Chokekami revealed that both she and her lord are members of the Kyōtsū no michi, though Moto Kuranosuke's presence had complicated their plans in Badger lands."
 ---
 ## Characters
 - [[Doji Junji]]
@@ -26,11 +26,11 @@ Hanzo and [[Koganshi Onotatsu]] approach a camel, and I notice Onotatsu inching 
 
 Joe meta-gamed and guessed he had the bad kami! He was right, and Onotatsu stopped! 
 
-## [[Shiro Jinjo]]
-We come across the Unicorn capital and nothing really happens. We continue to [[Shiroi Kishimura]].
+## [[Shiro Shinjo]]
+We come across the Unicorn capital and nothing really happens. We continue to [[Shiroi Kishi Mura]].
 
 ## Shiro Kishimura
-There is a tea house called [[The House of Beauty and Grace]].
+There is a tea house called [[The House of Beauty and Grace]] in a small village [[Mizu Mura]].
 
 We finally meet with [[Ide Chokekami]], and she leads us to [[Ide Tadamoto]]'s chambers. He dismisses everyone from the room except us. 
 

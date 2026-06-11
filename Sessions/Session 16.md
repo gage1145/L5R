@@ -2,7 +2,7 @@
 date: 2026-03-25
 session: 16
 previous: "[[Session 15]]"
-summary:
+summary: "The party fought off a badger raiding force; Hanzo and Onotatsu grappled a samurai who broke through, and Junji nearly died before cutting a badger warrior down at the last moment. The attackers withdrew after unexplained sounds of battle elsewhere, and the party learned that commander Ichiro Goro had died at the gate. A second badger company arrived and invited the group to Shiro Ichiro to recover and meet with Ichiro Toshekatsu, with three days spent healing."
 ---
 ## Characters
 - [[Doji Junji]]

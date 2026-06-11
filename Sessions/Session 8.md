@@ -2,7 +2,7 @@
 date: 2026-01-28
 session: "8"
 previous: "[[Session 7]]"
-summary:
+summary: "At Kyuden Bayushi, the group weighed how to seek an audience with Bayushi Masako, and Gaoxing convinced the ronin Onotatsu to join them permanently in exchange for a chance to restore his lost honor. Hanzo navigated the castle's labyrinth alone, reached Masako, apologized for killing his samurai, and secured papers through Unicorn and Dragon lands."
 ---
 ## Characters
 - [[Doji Junji]]

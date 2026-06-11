@@ -2,7 +2,7 @@
 date: 2026-03-11
 session: 14
 previous: "[[Session 13]]"
-summary:
+summary: "The party dispatched the remaining monks, burning their corpses and killing the captured survivor before extracting any information, and Gozaiman rewarded them with clothes for passing into Badger lands. On the road to the Path of Woe, they sheltered with the merchant Hikaru and his Mantis bodyguard Yuritomo Kyoko, who revealed that Ichiro Masakatsu was extorting the village of Ogana Owari and could be found at his mountain castle, Shiro Bagato."
 ---
 ## Characters
 - [[Doji Junji]]

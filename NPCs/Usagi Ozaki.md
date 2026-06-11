@@ -11,4 +11,4 @@ status: alive
 sex: male
 ---
 ## Overview 
-A Hare samurai we met in the rogue lands on our way to Badger lands. He was fighting a looming figure that we couldn't quite make out.
+A Hare samurai encountered in the rogue lands fighting an ogre that bore the Hare clan signet. Was sent by his lord to slay the creature and recover the signet. After the party helped defeat the ogre, he gave [[Usagi Haku]] the creature's massive odachi (which bore the signet) as thanks, then continued on alone, assuring the group he was safe traveling by himself.

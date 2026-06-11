@@ -2,7 +2,7 @@
 date: 2026-02-25
 session: 12
 previous:
-summary:
+summary: "After securing travel papers from Iuchi Monotake, the party met Ide Chokekami, who confirmed knowledge of the mission to kill Ichiro Masakatsu and warned that Badger lands were nearing civil war, with the Path of Woe as the only entry point. At a local shrine, Gaoxing grew suspicious of monks who refused to reveal their origins, and the group voted to kill them — but when Hanzo attacked one in isolation, the monk knocked him unconscious."
 ---
 ## Characters
 - [[Togashi Hanzo]]

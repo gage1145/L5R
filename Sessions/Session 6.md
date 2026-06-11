@@ -2,7 +2,7 @@
 date: 2026-01-14
 session: 6
 previous: "[[Session 5]]"
-summary:
+summary: "Seppun Kazumi revealed herself on the road and shattered the stolen swords, explaining they were cursed by the spirit of Seppun Daiori. The party returned to Daidoji Haruki's estate, where Yakisoba was exiled from Haruki's lands as punishment for stealing a horse. Traveling into Scorpion territory, a ronin named Kuma Mitomoro nearly killed Kuni Yoshiyuki in a death duel before Yakisoba cut him in half — a breach of etiquette that Hanzo physically stopped."
 ---
 ## Characters
 - [[Doji Junji]]

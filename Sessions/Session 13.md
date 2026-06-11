@@ -2,7 +2,7 @@
 date: 2026-03-04
 session: 13
 previous: "[[Session 12]]"
-summary:
+summary: "A mysterious illness spread through Gozaiman's village, and Gaoxing tied it to the suspicious monks while Yakisoba was quarantined for exposure. Yoshiyuki scaled the castle wall to track the fleeing monks and discovered an inside job — finding a samurai with a missing arm and another who had killed himself. Haku determined the illness was blood magic, the party found a black pillow book in the monks' quarters, and Yoshiyuki finally ambushed the monks outside the village."
 ---
 ## Characters
 - [[Doji Junji]]

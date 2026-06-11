@@ -2,7 +2,7 @@
 date: 2026-02-11
 session: 10
 previous: "[[Session 9]]"
-summary:
+summary: "The party slew the ogre bearing the Hare signet, with Junji delivering the killing blow, and Usagi Ozaki claimed its odachi before departing alone. Continuing north, the group encountered the weeping Goseki Yua, who turned out to be a bog hag — Onotatsu cleaved her in two and Hanzo incinerated the remains. The party arrived at Seiketsu Pass into Unicorn lands."
 ---
 ## Characters
 - [[Togashi Hanzo]]

@@ -2,7 +2,7 @@
 date: 2026-03-18
 session: 15
 previous: "[[Session 14]]"
-summary:
+summary: "A mortally wounded man staggered into the village warning that the siege of Shiro Bagato had been broken and no relief was coming. Haku and Yoshiyuki rode out on horseback with Mako to scout the approaching badger army."
 ---
 ## Characters
 - [[Doji Junji]]

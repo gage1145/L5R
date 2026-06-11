@@ -2,7 +2,7 @@
 date: 2026-02-04
 session: 9
 previous: "[[Session 8]]"
-summary:
+summary: "While Hanzo received papers from Bayushi Masako inside the castle, the rest of the party was arrested by Bayushi Ogoro, who staged a false murder scene to officially kill them while letting them go free. Heading north, the party helped move rice for warrior monks in a flu-stricken village, then stumbled upon Usagi Ozaki locked in combat with an ogre bearing a Hare clan signet."
 ---
 ## Characters
 - [[Doji Junji]]

@@ -9,7 +9,9 @@ Clan: "[[Phoenix Clan]]"
 Family: "[[Koganshi Family]]"
 ---
 ## Overview 
-A ronin we met in [[Wachimasu]] who was travelling to Unicorn lands. His lower face is completely shredded - as if someone had taken razors to his face. He was hired by [[Togashi Hanzo]] to lead the group through Unicorn lands and into Badger lands.
+A ronin met in [[Wachimasu]] while travelling to Unicorn lands. His lower face is completely shredded — as if someone had taken razors to it. Originally a samurai of the Phoenix clan (Koganshi family). Was tasked with defeating a tribe of Izumi that threatened a northern tribe; his men were killed and he was cursed, his mouth sealed shut, forcing him to cut it open himself to speak again. This failure cost him his place in the clan. He wants only to know he performed good in the world and to be remembered.
+
+Was hired by [[Togashi Hanzo]] to guide the group through Unicorn lands and into Badger lands. Later recruited permanently by [[Doji Gaoxing]], who promised to help restore his lost honor in exchange for his continued service. Travelled with the party through Badger lands, the caldera, and back through Unicorn territory. Visibly hesitant about the invitation to return to Phoenix lands for the tournament at [[Shiro Aokiro Oku]].
 ```
 jjjjjjj999999999999KKKKKKKK$KK$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$KKKKKKKKKKKK999999999999jjjjjjj
 jjjjj9999999999999KKKKKKKK$$K$$$$$$$$$$$$$$$$$$MMMMMMMMMMMMMMM$$$$$$$$$$$$$$$$$KKKKKKKKKKKK99999999999jjjjjjj

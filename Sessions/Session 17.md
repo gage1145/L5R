@@ -2,7 +2,7 @@
 date: 2026-04-01
 session: 17
 previous: "[[Session 16]]"
-summary:
+summary: "While exploring the caldera, Yakisoba was spirited away after being tricked by the ghost of Ikoma Naomori, a Lion seeking revenge against the Phoenix shugenja Isawa Tenzin. Junji and Haku took shelter from a downpour with the old man Jenchin, who turned out to be a tengu — Junji cut one down in a duel and the rest exploded into feathers. The group approached a shrine and spotted two figures departing, one wearing an oni mask."
 ---
 ## Characters
 - [[Doji Junji]]

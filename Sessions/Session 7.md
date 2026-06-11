@@ -2,7 +2,7 @@
 date: 2026-01-21
 session: 7
 previous: "[[Session 6]]"
-summary:
+summary: "Traveling through Scorpion lands, the party investigated the dead ronin's origins and Junji lost a duel to a local lord, abandoning plans to visit Toshi Aitate. Later, a battered group of samurai claiming to be hunting Lady Night for Daidoji Kentaro lured the party into an ambush — the group defeated them and Hanzo incinerated one. On the bodies they found travel papers for a meeting with Ide Chokekami, signed by Bayushi Masako."
 ---
 ## Characters
 - [[Doji Junji]]
