@@ -61,7 +61,7 @@ Since he won again, he had to buy the next round...again. He ordered another les
 He decides it's time to go, and they get upset and accuse him of cheating. They tell him that he owes them a new game, and tell him to visit them in [[Yage no-Kagamora]].
 
 ### The Magistrate's Court
-Junji meets the commander of the border, [[Akodo Kinsume]]. 
+Junji meets the commander of the border, [[Akodo Kinsumi]]. 
 
 Hanzo approaches a Lion Monk who turned out to be a personal advisor to the magistrate. They made short, enlightened small talk, and the monk revealed that the magistrate is spread thin dealing with the problems of a border town. He is constantly solving four issues at once.
 
