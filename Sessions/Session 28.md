@@ -33,7 +33,7 @@ Hanzo snuck into the manor looking for documentation of what has been happening 
 
 While Hanzo is rummaging through the office when Takashi enters the house. Hanzo hears this and jumps up onto the ceiling, ninja style. He didn't notice him. Hanzo saw that he was looking for a piece of paper (probably the for the letter that Gaoxing asked for).
 
-After he leaves, Hanzo goes into the bath house where he meets a guy named [[Hanzo]]. What a coincidence! We both get naked and relax in the bath.
+After he leaves, Hanzo goes into the bath house where he meets a guy named [[Hanzo]]. What a coincidence! We both get naked and relax in the bath and have gay sex.
 
 ### Staying the night
 An old man [[Shinroku]] approached us (an elderly!!!???). He saw us touring the village. There are many strange things happening in the village that Takashi is unwilling to talk about. He talks about the disease and the bandits, and he thinks Takashi is not taking it as seriously as he should. He says Takashi is a strict man, but he protects them.
