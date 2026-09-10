@@ -11,4 +11,4 @@ status: alive
 sex: male
 ---
 ## Overview 
-A farmer in [[Mushi Mura]].
+The mousy wife of [[Isawa Masahira]] and a highly trained shugenja in [[Aojiro Oku Shiro]].

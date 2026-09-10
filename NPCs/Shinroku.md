@@ -7,7 +7,7 @@ tags:
 sentiment:
 Clan: "[[Lion Clan]]"
 Family:
-status: alive
+status: dead
 sex: male
 ---
 ## Overview 

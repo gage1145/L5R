@@ -1,10 +1,10 @@
 {
-  "collapse-filter": false,
+  "collapse-filter": true,
   "search": "-path: Sessions -path: z_Templates -path: Elements  ",
   "showTags": false,
   "showAttachments": false,
-  "hideUnresolved": false,
-  "showOrphans": true,
+  "hideUnresolved": true,
+  "showOrphans": false,
   "collapse-color-groups": true,
   "colorGroups": [
     {
@@ -52,14 +52,14 @@
   ],
   "collapse-display": true,
   "showArrow": false,
-  "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 1.68229166666667,
-  "lineSizeMultiplier": 1.37604166666667,
-  "collapse-forces": false,
-  "centerStrength": 0.317708333333333,
-  "repelStrength": 11.7708333333333,
-  "linkStrength": 0.90625,
-  "linkDistance": 118,
-  "scale": 0.10021812422827515,
-  "close": true
+  "textFadeMultiplier": -0.7,
+  "nodeSizeMultiplier": 1.04769519385385,
+  "lineSizeMultiplier": 1.38343755583348,
+  "collapse-forces": true,
+  "centerStrength": 0.599338931570484,
+  "repelStrength": 11.2391985566423,
+  "linkStrength": 1,
+  "linkDistance": 101,
+  "scale": 0.22471686098044896,
+  "close": false
 }

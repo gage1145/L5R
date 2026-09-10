@@ -14,9 +14,9 @@
   "ITS@@slrvb-b": false,
   "ITS@@accent-color": false,
   "ITS@@its-d": true,
-  "ITS@@ITS-Sizes": "none",
+  "ITS@@ITS-Sizes": "sizing-readable",
   "ITS@@radius-s": 0,
-  "ITS@@file-line-width": 1000,
+  "ITS@@file-line-width": 600,
   "ITS@@ITS-Table-Styling": "tables-style-wikipedia",
   "ITS@@justified": false,
   "ITS@@lig": true,
@@ -35,5 +35,6 @@
   "ITS@@h4-size": 28,
   "ITS@@h5-size": 24,
   "ITS@@h6-size": 20,
-  "ITS@@font-monospace": "'Courier bold', 'Fira Code Medium', 'Source Code Pro', monospace"
+  "ITS@@font-monospace": "'Courier bold', 'Fira Code Medium', 'Source Code Pro', monospace",
+  "ITS@@scrollbar-width": 15
 }

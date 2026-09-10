@@ -12,6 +12,7 @@ Tattoos:
 Religion:
 Family: "[[Kuni Family]]"
 Affiliations: "[[Kyōtsū no michi]]"
+Clan: "[[Crab Clan]]"
 ---
 > [!multi-column]
 >> [!blank-container | wide-3]

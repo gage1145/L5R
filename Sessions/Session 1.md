@@ -30,7 +30,7 @@ We must kill the [[Gokenishi]].
 
 1. The first is [[Ichiro Masakatsu]]
 	- A horrible Badger.
-2. The second is [[Kitsuki Kaganori]]
+2. The second is [[Kitsuki Kagemore]]
 	- Commands wicked ronin
 	- He's a Dragon that brings great dishonor upon the Dragon clan!
 3. The third is [[Lady Night]]

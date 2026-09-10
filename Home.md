@@ -6,23 +6,22 @@ from "The Party"
 ```
 
 ## NPCs
->[!multi-column]
->>### Allies
->>```dataview
->>TABLE WITHOUT ID
->>file.link AS Name, status, Clan 
->>FROM #NPC 
->>WHERE sentiment = "Ally"
->>```
->
->>### Enemies
->>```dataview
->>TABLE WITHOUT ID
->>file.link AS Name, status, Clan 
->>FROM #NPC 
->>WHERE sentiment = "Enemy"
->>```
->
+
+### Allies
+```dataview
+TABLE WITHOUT ID
+file.link AS Name, status, Clan 
+FROM #NPC 
+WHERE sentiment = "Ally"
+```
+
+### Enemies
+```dataview
+TABLE WITHOUT ID
+file.link AS Name, status, Clan 
+FROM #NPC 
+WHERE sentiment = "Enemy"
+```
 
 ### Neutral
 ```dataview
@@ -31,7 +30,6 @@ file.link AS Name, Clan
 FROM #NPC 
 WHERE sentiment = "Neutral"
 ```
-
 
 ## Summaries
 ```dataview
