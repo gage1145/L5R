@@ -13,7 +13,7 @@ summary:
 - [[Akodo Yakisoba]]
 
 ## Overview
-### Hanzo Rescues [[Eichi Jin]]
+### Hanzo Rescues [[Heichi Jin]]
 While the others are getting information on the local ronin, Hanzo goes back to the village to rescue Jin and/or assassinate [[Kitsuki Kagemore]]. Kagemore wasn't there, but he did manage to free Jin.
 
 On the way back, Jin requests that we go back to get his armor, and Hanzo says that once we meet back up with his companions.

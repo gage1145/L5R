@@ -31,7 +31,7 @@ We deliver the letter offering to sell rice to Kagemore. He says he'll buy it an
 
 Hanzo writes a letter to an old sensei in a nearby dojo. His name is [[Togashi Morai]]. 
 
-We checked on a prisoner being held here as well. His name is [[Eichi Jin]]. We remembered that a group of Dragon samurai in Unicorn lands mentioned him by name as being one of the good ronin in this land. 
+We checked on a prisoner being held here as well. His name is [[Heichi Jin]]. We remembered that a group of Dragon samurai in Unicorn lands mentioned him by name as being one of the good ronin in this land. 
 
 Yoshi remembered that there was an ox standing in the middle of a field.
 
