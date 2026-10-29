@@ -11,4 +11,3 @@ status: alive
 sex: male
 ---
 ## Overview 
-A merchant in [[Otosan Uchi]] who was a rival to [[Ooka]].

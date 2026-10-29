@@ -1,5 +1,5 @@
 ---
-AKA:
+AKA: The Silken Hand
 Province:
 Affiliations: "[[Gokenishi]]"
 Family: "[[Doji Family]]"

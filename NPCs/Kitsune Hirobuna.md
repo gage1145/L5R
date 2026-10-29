@@ -11,4 +11,4 @@ status: alive
 sex: male
 ---
 ## Overview 
-A gun runner and champion for the Tortoise Clan in [[Otosan Uchi]].
+The mother of [[Seppun Haruhisa]]. A known shugenja.

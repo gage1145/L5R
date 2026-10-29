@@ -23,7 +23,3 @@ summary:
 - [[Akodo Yakisoba]]
 
 ## Overview
-
-## Key Learnings
-
-## Who Did We Meet?
