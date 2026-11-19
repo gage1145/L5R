@@ -21,3 +21,11 @@ Yoshi encounters a shark harassing a peasant girl and can't stand it. He challen
 We heard that Kagemore was in [[Kyuden Bayushi]], so Hana used her Scorpioon contacts to learn his whereabouts. She learned only that he had left the city that morning and had a Lion escort. She further asked [[Bayushi Masako]] for resources in tracking him.
 
 Late in the night, two men showed up at our room to give us information. Kagemore was escorted as a prisoner by [[Akodo Yoshikage]]. 
+
+Also, Hana met [[Koganshi Onotatsu]]. She's in love. <3
+
+## Yoshi duels a shark 2: Electric Boogaloo
+He fucking killed that shark lol
+
+### The Village
+ 
