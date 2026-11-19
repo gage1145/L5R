@@ -16,7 +16,7 @@ summary:
 ---
 ## Characters
 - [[Doji Junji]]
-- [[Togashi Hanzo]]
+- [[Yogo Hana]]
 - [[Kuni Yoshiyuki]]
 - [[Doji Gaoxing]]
 - [[Usagi Haku]]

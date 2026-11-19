@@ -37,5 +37,10 @@
   "ITS@@h6-size": 20,
   "ITS@@font-monospace": "'Courier bold', 'Fira Code Medium', 'Source Code Pro', monospace",
   "ITS@@scrollbar-width": 15,
-  "ITS@@text@@dark": "#A49C93"
+  "ITS@@text@@dark": "#A49C93",
+  "ITS@@soft-text@@dark": "#A49C93",
+  "ITS@@i-at@@dark": "#C60202",
+  "ITS@@bold-color@@dark": "#894B30",
+  "ITS@@dark-accent@@dark": "#760808",
+  "ITS@@deep-dark-accent@@dark": "#2E0101"
 }

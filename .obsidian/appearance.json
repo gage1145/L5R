@@ -7,5 +7,7 @@
   "theme": "obsidian",
   "textFontFamily": "",
   "interfaceFontFamily": "",
-  "monospaceFontFamily": "Cascadia Code"
+  "monospaceFontFamily": "Cascadia Code",
+  "accentColor": "#cd2323",
+  "showRibbon": true
 }
